@@ -1,0 +1,61 @@
+id: 276343
+url: https://www.grantforward.com/grant?grant_id=276343
+amount_info: Strategic Research Agreement applications may request up to $200,000 USD per year (including up to 10% indirect costs) for up to 2 years. The level of funding will vary depending on the scope and overall objectives of the proposal. Project proposals of up to 36 months duration and/or higher budget may be considered. Applicants should discuss with JDRF Staff (see below) when proposing longer timelines or higher budgets to determine the suitability of the proposal.
+site_grant_type: nan
+modified_date: 2018-10-03 22:06:56
+application_url: http://grantcenter.jdrf.org/wp-content/uploads/2018/08/Localized-Immunomodulation-BCR-RFA.pdf
+title: Localized Immunomodulation in Beta Cell Replacement- Strategic Research Agreement (SRA)
+all_titles: Localized Immunomodulation in Beta Cell Replacement- Strategic Research Agreement (SRA)
+submission_info: LETTER OF INTENT 
+Prospective applicants should submit a Letter of Intent (LOI) online via RMS360 (http://jdrf.smartsimple.us) to be considered for a full proposal. The LOI template provided through RMS360 must be used to complete the application. Applicants will be notified approximately one month after the LOI deadline date if they have been approved to submit a full application.
+
+Please see below for complete instructions. Letters of intent should use the template provided and include the following information:
+? Background/Rationale and Specific Aims of overall project
+? Uniqueness about the approach and advantages over other approaches explored in the field
+? Overview of hypotheses, goals, deliverables, and collaborative framework if applicable
+? Impact of the expected deliverables of the proposed study with potential next steps
+? Timelines/timetable
+? Intellectual Property or commercial efforts associated with the current application
+? Estimated total and annual budgets
+? Biosketches for all Principal Investigators 
+
+PROPOSAL 
+An approved LOI is required prior to submission of a full proposal. Upon notification of a request for a full proposal, the application must be completed using the templates provided on the RMS360 portal (http://jdrf.smartsimple.us). Proposal section templates in MS Word [10 page maximum] should be type-written, single-spaced and in typeface no smaller than 10-point font and have no more than six vertical lines per vertical inch. Margins, in all directions, must be at least 12 inch. Complete information should be included to permit review of each application without reference to previous applications.
+Note that all applications involving human subject research must include supplemental information to address subject safety, study design and investigational product information. More details can be found in the Human Subject Research Guidelines:
+http://grantcenter.jdrf.org/wp-content/uploads/2012/12/JDRF_Scientific_Guidelines_final-Aug20151.pdf
+all_grant_source_urls: http://grantcenter.jdrf.org/rfa/localized-immunomodulation-in-beta-cell-replacement/
+status: Closed
+description: PURPOSE
+
+JDRF is committed to the development of beta cell replacement therapies to restore glycemic control and eliminate the need for exogenous insulin administration in people with T1D. Pancreatic islet transplantation has been efficacious in improving metabolic control, preventing severe hypoglycemia, and improving quality of life in patients with medically unstable T1D. Despite significant progress in the development of alternative renewable sources of insulin producing cells to overcome the shortage of donor tissue, major scientific and technical challenges remain that must be addressed before beta cell replacement is widely incorporated into the clinical management of established T1D. One key limitation is the need for systemic administration of immunosuppressive drugs to protect the cell graft from the recipients immune response.
+
+BACKGROUND
+
+The advent of the Edmonton protocol signified a major breakthrough in clinical islet transplantation by significantly improving outcomes in patients that underwent the procedure as reflected by stable glycemia, reduction in hemoglobin A1c (HbA1c), and elimination of hypoglycemia for several years.1,2 However, most of these patients still failed to maintain insulin independence for more than 5 years due to graft failure. Moreover, the use of immunosuppressive drugs is associated with serious adverse side effects and can impair beta cell function.3-5 Alternative approaches being explored for providing immune protection include encapsulation of cells in permselective membranes that allow exchange of nutrients, glucose, and insulin but block immune cells and other immune effectors from recognizing the graft.6-13 Although progress has been promising, the foreign body reaction and ensuing fibrotic encapsulation of implanted materials paired with limitations on mass transfer and nutrient delivery remain a challenge.
+
+More recently, the emerging field of immuno-engineering has come to the forefront of efforts to develop technologies to control the patients innate and adaptive immune responses.14-24 These approaches employ various strategies targeting mechanisms of immune cell recognition and activation which could be exploited to direct the host response to implanted materials and/or cells towards a wound healing and/or tolerogenic response, as opposed to an inflammatory and/or effector response. Local immunomodulation at the graft site is highly desirable, as it could obviate the need for harsh and burdensome systemic immunosuppression regimens and perhaps even encapsulation barriers. Therefore, JDRF wishes to support research into novel strategies for localized modulation of the host response to implanted materials and development of immunomodulatory therapeutics to provide graft protection at the transplant site leading to long-term graft function.
+eligibility: ELIGIBILITY 
+Applicants for SRAs must hold an M.D., D.M.D., D.V.M., Ph.D., or equivalent and have a faculty position or equivalent at a college, university, medical school, or other research facility. Please note that applications from for-profit entities or industry collaborations with academia may be submitted to this LOI; however, additional information will be requested from for-profit entities if a full application is invited.
+For clinical studies, applicants must hold an appointment or joint appointment in a subspecialty of clinical medicine, and conduct human clinical research.
+There are no citizenship requirements for this program. To assure continued excellence and diversity among applicants and awardees, JDRF welcomes applications from all qualified individuals and encourages applications from persons with disabilities, women, and members of minority groups underrepresented in the sciences.
+
+Nonprofit organizations, public and private universities, colleges, hospitals, laboratories, units of state and local governments may apply under JDRFs Strategic Research Agreement (SRA) and Pilot and Feasibility (PNF) funding mechanisms. For-profit entities may apply under JDRFs Industry Discovery & Development Partnership (IDDP) funding mechanism, which entails additional requirements and typically has a modest royalty payback to JDRF.
+categories_display: {"Medical Sciences": {"Clinical Medicine": {"Therapeutics": null}}}
+limited_grant_info: nan
+user_categories: Medical Sciences;Clinical Medicine;Therapeutics
+submit_date: 2018-10-03 22:06:56
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: http://grantcenter.jdrf.org/rfa/localized-immunomodulation-in-beta-cell-replacement/
+deadlines: 
+      
+amounts: 
+      
+all_types: Research Project
+all_applicant_types: Individual; Not for Undergraduate; Not for Graduate; Early Career Investigator; Senior Researcher; Women; Disability; Minority; Organization; Academic Institution; Non-profit; Not for Commercial; Government
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

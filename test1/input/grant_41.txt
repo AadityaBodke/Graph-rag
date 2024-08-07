@@ -1,0 +1,42 @@
+id: 305987
+url: https://www.grantforward.com/grant?grant_id=305987
+amount_info: nan
+site_grant_type: nan
+modified_date: 2019-02-12 23:22:52
+application_url: https://www.rand.org/well-being/social-and-behavioral-policy/centers/aging/rsi.html
+title: RAND Summer Institute (RSI) - Demography, Economics, Psychology, and Epidemiology of Aging
+all_titles: RAND Summer Institute (RSI) - Demography, Economics, Psychology, and Epidemiology of Aging
+submission_info: Application Instructions:
+
+In addition to the registration form, the following support materials must also be submitted:
+1. A curriculum vita (in Word or PDF format).
+2. One letter of recommendation addressing the applicant's demonstrated abilities and commitment to future research in the field.
+All support materials may be submitted electronically via email to epayne@rand.org (this is the preferred method). 
+Or you can mail it to the following: RAND; Attn: Emily Payne; 1776 Main Street; Santa Monica, CA 90407.
+
+Please make sure all materials include your full name as it appears on this application form, and the subject line references RSI 2019 when emailing.
+all_grant_source_urls: https://www.rand.org/well-being/social-and-behavioral-policy/centers/aging/rsi/demography.html
+status: Closed
+description: RAND is pleased to announce the 26th annual RAND Summer Institute (RSI) on the Demography, Economics, Psychology, and Epidemiology of Aging. RSI addresses critical issues facing our aging population, and offers attendees the opportunity to connect with expert researchers in a variety of disciplines to discuss the interrelationship of health, economic, status, and public policy in the aging field.
+
+The 2019 conference will be held July 1011 at the RAND Corporation headquarters campus in Santa Monica, California, just after the Mini-Medical School for Social Scientists on July 89. The conference aims to serve as a vehicle to provide additional training to researchers new to the field of aging, and is sponsored by the National Institute on Aging and the National Institutes of Health (NIH) Office of Behavioral and Social Sciences Research.
+eligibility: Qualified Institute applicants must hold a Ph.D. or have completed two years of a Ph.D. program and be actively working on a dissertation. Only applicants working in the field of aging  or actively considering this research field  will be considered.
+categories_display: {"Population Studies": {"Demography": null}, "Behavioral Sciences": {"Psychology": null}, "Social Sciences": {"Economics": null}}
+limited_grant_info: nan
+user_categories: Demography;Economics;Psychology
+submit_date: 2019-02-12 23:22:52
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.rand.org/well-being/social-and-behavioral-policy/centers/aging/rsi/demography.html
+deadlines: 
+      
+amounts: None
+all_types: Workshop/Conference
+all_applicant_types: Not for Organization; Not for Senior Researcher; Early Career Investigator; Not for Graduate; Not for Undergraduate; Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

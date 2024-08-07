@@ -1,0 +1,183 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity, first identify all entities needed from the text in order to capture the information and ideas in the text.
+Next, report all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: Suggest several labels or categories for the entity. The categories should not be specific, but should be as general as possible.
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+ Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in The primary language of the provided text is **English**. as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter. If you have to translate, just translate the descriptions, nothing else!
+
+4. When finished, output {completion_delimiter}
+
+-Examples-
+######################
+
+Example 1:
+
+text:
+ college, university, medical school, or other research facility. Please note that applications from for-profit entities or industry collaborations with academia may be submitted to this LOI; however, additional information will be requested from for-profit entities if a full application is invited.
+For clinical studies, applicants must hold an appointment or joint appointment in a subspecialty of clinical medicine, and conduct human clinical research.
+There are no citizenship requirements for this program. To assure continued excellence and diversity among applicants and awardees, JDRF welcomes applications from all qualified individuals and encourages applications from persons with disabilities, women, and members of minority groups underrepresented in the sciences.
+
+Nonprofit organizations, public and private universities, colleges, hospitals, laboratories, units of state and local governments may apply under JDRFs Strategic Research Agreement (SRA) and Pilot and Feasibility (PNF) funding mechanisms. For-profit entities may apply under JDRFs Industry Discovery & Development Partnership (IDDP) funding mechanism, which entails additional requirements and typically has a modest royalty payback to JDRF.
+categories_display: {"Medical Sciences": {"Clinical Medicine": {"Therapeutics": null}}}
+limited_grant_info: nan
+user_categories: Medical Sciences;Clinical Medicine;Therapeutics
+submit_date: 2018-10-03 22:06:56
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: http://grantcenter.jdrf.org/rfa/localized-immunomodulation-in-beta-cell-replacement/
+deadlines: 
+      
+amounts: 
+      
+all_types: Research Project
+all_applicant_types: Individual; Not for Undergraduate; Not for Graduate; Early Career Investigator; Senior Researcher; Women; Disability; Minority; Organization; Academic Institution; Non-profit; Not for Commercial; Government
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan
+
+------------------------
+output:
+("entity"{tuple_delimiter}JDRF{tuple_delimiter}ORGANIZATION{tuple_delimiter}JDRF is an organization that provides funding for research in medical sciences, particularly in clinical medicine and therapeutics.)
+{record_delimiter}
+("entity"{tuple_delimiter}COLLEGE/UNIVERSITY{tuple_delimiter}INSTITUTION{tuple_delimiter>A college or university is an academic institution that can apply for research funding from JDRF.)
+{record_delimiter}
+("entity"{tuple_delimiter}MEDICAL SCHOOL{tuple_delimiter}INSTITUTION{tuple_delimiter>A medical school is a type of academic institution focused on training medical professionals and can apply for research funding from JDRF.)
+{record_delimiter}
+("entity"{tuple_delimiter}RESEARCH FACILITY{tuple_delimiter}INSTITUTION{tuple_delimiter>A research facility is an organization dedicated to conducting research and can apply for funding from JDRF.)
+{record_delimiter}
+("entity"{tuple_delimiter}FOR-PROFIT ENTITY{tuple_delimiter}ORGANIZATION{tuple_delimiter>A for-profit entity is a business that can apply for JDRF funding under specific mechanisms with additional requirements.)
+{record_delimiter}
+("entity"{tuple_delimiter}NONPROFIT ORGANIZATION{tuple_delimiter}ORGANIZATION{tuple_delimiter>A nonprofit organization is a type of organization that can apply for funding from JDRF.)
+{record_delimiter}
+("entity"{tuple_delimiter}HOSPITAL{tuple_delimiter}INSTITUTION{tuple_delimiter>A hospital is a healthcare institution that can apply for research funding from JDRF.)
+{record_delimiter}
+("entity"{tuple_delimiter}LABORATORY{tuple_delimiter}INSTITUTION{tuple_delimiter>A laboratory is a facility for scientific research that can apply for funding from JDRF.)
+{record_delimiter}
+("entity"{tuple_delimiter}STATE AND LOCAL GOVERNMENTS{tuple_delimiter}GOVERNMENT{tuple_delimiter>State and local governments can apply for funding from JDRF for research purposes.)
+{record_delimiter}
+("entity"{tuple_delimiter}INDUSTRY DISCOVERY & DEVELOPMENT PARTNERSHIP (IDDP){tuple_delimiter}FUNDING MECHANISM{tuple_delimiter>IDDP is a funding mechanism by JDRF for for-profit entities with specific requirements and royalty payback.)
+{record_delimiter}
+("entity"{tuple_delimiter}STRATEGIC RESEARCH AGREEMENT (SRA){tuple_delimiter}FUNDING MECHANISM{tuple_delimiter>SRA is a funding mechanism by JDRF for various types of organizations including nonprofits and academic institutions.)
+{record_delimiter}
+("entity"{tuple_delimiter}PILOT AND FEASIBILITY (PNF){tuple_delimiter}FUNDING MECHANISM{tuple_delimiter>PNF is a funding mechanism by JDRF aimed at supporting preliminary research projects.)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}COLLEGE/UNIVERSITY{tuple_delimiter>Colleges and universities can apply for research funding from JDRF under various mechanisms.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}MEDICAL SCHOOL{tuple_delimiter>Medical schools can apply for research funding from JDRF under various mechanisms.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}RESEARCH FACILITY{tuple_delimiter>Research facilities can apply for funding from JDRF for their research activities.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}FOR-PROFIT ENTITY{tuple_delimiter>For-profit entities can apply for funding from JDRF under the IDDP mechanism with additional requirements.{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}NONPROFIT ORGANIZATION{tuple_delimiter>Nonprofit organizations can apply for funding from JDRF under various mechanisms.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}HOSPITAL{tuple_delimiter>Hospitals can apply for research funding from JDRF for their medical research initiatives.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}LABORATORY{tuple_delimiter>Laboratories can apply for funding from JDRF to support their research activities.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}STATE AND LOCAL GOVERNMENTS{tuple_delimiter>State and local governments can apply for research funding from JDRF.{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}STRATEGIC RESEARCH AGREEMENT (SRA){tuple_delimiter>SRA is one of the funding mechanisms offered by JDRF for various organizations.{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}JDRF{tuple_delimiter}PILOT AND FEASIBILITY (PNF){tuple_delimiter>PNF is another funding mechanism provided by JDRF for preliminary research projects.{tuple_delimiter}9)
+{completion_delimiter}
+#############################
+
+
+Example 2:
+
+text:
+id: 294408
+url: https://www.grantforward.com/grant?grant_id=294408
+amount_info: The successful fellow will receive an academic year salary of $65,000 plus fringe benefits. Gilder Lehrman Center Fellows have full access to the Yale University libraries and email. Fellows can expect shared office space, computer access, and basic office supplies.
+site_grant_type: nan
+modified_date: 2023-04-20 22:06:38
+application_url: https://glc.yale.edu/Fellowships/human-trafficking-and-modern-day-slavery-fellowship
+title: Argiro Fellowship in the Study of Modern Slavery
+all_titles: Human Trafficking and Modern Day Slavery Fellowship=CZD=Argiro Fellowship in the Study of Modern Slavery
+submission_info: To apply for the Argiro Fellowship in the Study of Modern Slavery, visit: http://apply.interfolio.com/101804
+
+Do not mail application materials directly to the Center.
+
+You are required to submit the following materials via Interfolio:
+
+ -          Cover Letter
+
+-           Curriculum Vitae (CV)
+
+-           Two letters of recommendation
+
+-           Three to five page statement regarding intended research project (research statement), including indication of specific Yale resources you intend to consult
+
+-           Proposed title, brief description, and department for the class you intend to teach
+all_grant_source_urls: https://glc.yale.edu/Fellowships/human-trafficking-and-modern-day-slavery-fellowship
+status: Closed
+description: The Gilder Lehrman Center for the Study of Slavery, Resistance, and Abolition (GLC), part of the MacMillan Center for International and Area Studies at Yale University, invites applications for the inaugural Argiro Fellowship in the Study of Modern Slavery. The GLC seeks to promote a better understanding of all aspects of the institution of slavery from the earliest times to the present. Argiro Fellows may study the global history of racism, slavery, and abolition, with an emphasis on its modern-day forms, impact, and eradication and recovery efforts. Scholars from all disciplines, both traditional academics as well as writers, researchers, and artists without academic institutional affiliation, are encouraged to apply. This new fellowship is sponsored by a generous gift from Vincent Argiro, Yale, '77, modern antislavery activist and entrepreneur.
+eligibility: Applicants MUST have received the Ph.D. prior to the beginning of their appointment, or possess equivalent experiences. Both established and younger scholars are invited to apply. This is a residential fellowship and Fellows are expected to spend the majority of their time in residence at Yale, from August 2022 through May 2023. The residency requirement is contingent on current public health policies implemented by Yale University, the State of Connecticut, and the Fellow's home institution. In addition to working on their own research project, the Fellow is expected to teach one course related to their research and hold related office hours for students. Ideally, the Fellow also will complete a significant publication during their residency. The Fellow is expected to participate in the intellectual life of the GLC and the larger Yale community, and to acknowledge the support of the GLC and the MacMillan Center in publications and lectures that stem from research conducted during the fellowship term. The fellow is expected to offer one public presentation during their tenure at Yale and to record an audio interview for a podcast. The Fellow will engage in the GLC s modern slavery initiative in all ways suitable to their scholarly and public interests.
+categories_display: {"Area Studies": null, "Humanities": null}
+limited_grant_info: nan
+user_categories: Area Studies;Humanities
+submit_date: 2018-12-17 21:34:13
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://glc.yale.edu/Fellowships/human-trafficking-and-modern-day-slavery-fellowship
+deadlines: 
+      
+amounts: None
+all_types: Fellowship/Scholarship/Dissertation
+all_applicant_types: Not for Organization; Senior Researcher; Early Career Investigator; Not for Graduate; Not for Undergraduate; Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan
+
+------------------------
+output:
+("entity"{tuple_delimiter}ARGIRO FELLOWSHIP IN THE STUDY OF MODERN SLAVERY{tuple_delimiter}FELLOWSHIP, GRANT{tuple_delimiter}The Argiro Fellowship is offered by the Gilder Lehrman Center for the Study of Slavery, Resistance, and Abolition at Yale University, focusing on modern slavery and its historical context.)
+{record_delimiter}
+("entity"{tuple_delimiter}GILDER LEHRMAN CENTER{tuple_delimiter}ORGANIZATION, ACADEMIC INSTITUTION{tuple_delimiter}The Gilder Lehrman Center is part of the MacMillan Center for International and Area Studies at Yale University, promoting research on slavery and its impacts.)
+{record_delimiter}
+("entity"{tuple_delimiter}YALE UNIVERSITY{tuple_delimiter}ORGANIZATION, ACADEMIC INSTITUTION{tuple_delimiter}Yale University is a prestigious institution that hosts the Gilder Lehrman Center and offers various fellowships and academic resources.)
+{record_delimiter}
+("entity"{tuple_delimiter}VINCENT ARGIRO{tuple_delimiter}PERSON, DONOR{tuple_delimiter}Vincent Argiro is a Yale alumnus and modern antislavery activist who sponsored the Argiro Fellowship.)
+{record_delimiter}
+("entity"{tuple_delimiter}INTERFOLIO{tuple_delimiter}PLATFORM, APPLICATION SYSTEM{tuple_delimiter}Interfolio is the online platform used for submitting application materials for the Argiro Fellowship.)
+{record_delimiter}
+("relationship"{tuple_delimiter}ARGIRO FELLOWSHIP IN THE STUDY OF MODERN SLAVERY{tuple_delimiter}GILDER LEHRMAN CENTER{tuple_delimiter}The Argiro Fellowship is offered by the Gilder Lehrman Center, which manages the fellowship program focused on modern slavery.{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}GILDER LEHRMAN CENTER{tuple_delimiter}YALE UNIVERSITY{tuple_delimiter}The Gilder Lehrman Center is part of Yale University, contributing to its academic and research initiatives.{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}VINCENT ARGIRO{tuple_delimiter}ARGIRO FELLOWSHIP IN THE STUDY OF MODERN SLAVERY{tuple_delimiter}Vincent Argiro is the sponsor of the Argiro Fellowship, providing funding and support for the program.{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}ARGIRO FELLOWSHIP IN THE STUDY OF MODERN SLAVERY{tuple_delimiter}INTERFOLIO{tuple_delimiter}Applications for the Argiro Fellowship must be submitted through the Interfolio platform.{tuple_delimiter}6)
+{completion_delimiter}
+#############################
+
+
+
+-Real Data-
+######################
+text: {input_text}
+######################
+output:

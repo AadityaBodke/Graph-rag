@@ -1,0 +1,71 @@
+id: 86464
+url: https://www.grantforward.com/grant?grant_id=86464
+amount_info: Award Ceiling: $2,500,000  
+Award Floor: $100,000
+site_grant_type: Cooperative Agreement
+modified_date: 2023-04-13 06:01:21
+application_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=147073
+title: African Institutions Innovation Mechanism (AIIM)
+all_titles: African Institutions Innovation Mechanism (AIIM)
+submission_info: RELATED DOCUMENTS:   
+
+Folder: Full Announcement - 1
+[APS-623-12-000001-Full Announcement - 1.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/1073)
+Feb 28, 2012 09:14:22 AM EST
+
+Annual Program Statement
+[aps-623-12-000001.docx](https://www.grants.gov/grantsws/rest/opportunity/att/download/118365)
+Feb 28, 2012 09:14:22 AM EST
+
+Folder: Full Announcement - 2
+[APS-623-12-000001-Full Announcement - 2.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/14044)
+Apr 30, 2012 10:02:50 AM EDT
+
+Amendment #01
+[amendment no. 1 aiim aps 4-30-tf-mm.docx](https://www.grants.gov/grantsws/rest/opportunity/att/download/134005)
+Apr 30, 2012 10:02:50 AM EDT
+
+Folder: Other Supporting Documents - Applicant Conference Announcement & Reminder for Next Review Submission 1
+[APS-623-12-000001-Other Supporting Documents - Applicant Conference Announcement & Reminder for Next Review Submission 1.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/21453)
+Sep 07, 2012 03:36:41 AM EDT
+
+Applicant Conference Announcement & Reminder for Next Review Submission
+[aiim amendment no. 3.doc](https://www.grants.gov/grantsws/rest/opportunity/att/download/161685)
+Sep 07, 2012 03:36:41 AM EDT
+
+Folder: Other Supporting Documents - Questions and Answers - Amendment #1 1
+[APS-623-12-000001-Other Supporting Documents - Questions and Answers - Amendment #1 1.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/21990)
+Mar 16, 2012 05:29:55 AM EDT
+
+Questions and Answers - Amendment #1
+[q & a for concept paper first submission woc2 (kaarli sundsmo) (1).doc](https://www.grants.gov/grantsws/rest/opportunity/att/download/122647)
+Mar 16, 2012 05:29:55 AM EDT
+all_grant_source_urls: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=147073
+status: Closed
+description: Funding Opportunity Number: APS-623-12-000001  
+
+Please refer to the following link for the description of the program description:http://www.feedthefuture.gov/sites/default/files/country/strategies/files/EastAfricaFTFMulti-YearStrategy.pdf
+eligibility: Eligible Applicants:  
+Others (see text field entitled "Additional Information on Eligibility" for clarification)  
+
+Additional Information on Eligibility:  
+This opportunity is restricted to applicants that are operational in at least two of the following countries and legally registered in one: Burundi, Democratic Republic of the Congo, Djibouti, Ethiopia, Kenya, Rwanda, South Sudan, Sudan, Tanzania, and/or Uganda
+categories_display: {"Agriculture": null}
+limited_grant_info: nan
+user_categories: nan
+submit_date: 2015-03-02 06:35:10
+is_limited: 0
+site_categories: Agriculture
+cost_sharing: Yes
+grant_source_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=147073
+deadlines: 
+      
+amounts: 
+      
+all_types: Collaboration/Cooperative Agreement
+all_applicant_types: None
+locations: None
+sponsors: 
+      
+ext_grant_id: APS-623-12-000001
+replaces: nan

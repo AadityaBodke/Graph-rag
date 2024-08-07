@@ -1,0 +1,69 @@
+id: 249650
+url: https://www.grantforward.com/grant?grant_id=249650
+amount_info: Expected Number of Awards: 1
+site_grant_type: Cooperative Agreement
+modified_date: 2023-04-13 06:00:55
+application_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=305335
+title: RISE II HEALTH SERVICES DELIVERY ACTIVITY
+all_titles: RISE II HEALTH SERVICES DELIVERY ACTIVITY
+submission_info: RELATED DOCUMENTS:   
+
+Folder: Full Announcement - RISEII Health Service Delivery
+[RFI-625-18-RISEII-HSD-Full Announcement - RISEII Health Service Delivery.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/36244)
+Jun 11, 2018 12:46:55 PM EDT
+
+Final Draft Report Burkina Faso Supply Chain Assessment
+[Burkina Faso Supply Chain Assessment - Final Report - Final Draft.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/274988)
+Jun 11, 2018 12:43:32 PM EDT
+
+Pre-Solicitation Conference Attendance Information
+[Conference Participation Information..pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/274500)
+May 31, 2018 11:44:47 AM EDT
+
+Pre-solicitation Conference Notes June 04, 2018
+[RFI-625-18-RISEII-HSD_Presolicitation Conference Notes.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/274995)
+Jun 11, 2018 12:41:53 PM EDT
+
+Pre-solicitation conference Attendance list
+[Attendance list- Presolicitation conference june 4 2018.xlsx](https://www.grants.gov/grantsws/rest/opportunity/att/download/274996)
+Jun 11, 2018 12:44:44 PM EDT
+
+RFI-625-18-RISEII-HSD
+[RISE II Health Services Delivery RFI.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/273929)
+May 18, 2018 09:52:34 AM EDT
+
+USAID technical presentation June 04, 2018
+[RFI-625-18-RISEII-HSD_ Pre-solicitation conference technical presentation.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/274997)
+Jun 11, 2018 12:46:55 PM EDT
+all_grant_source_urls: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=305335
+status: Closed
+description: Funding Opportunity Number: RFI-625-18-RISEII-HSD  
+
+This is a Request for Information (RFI) Notice requesting comments to the draft Program Description (PD) below for the USAID/Senegal, Sahel Regional Office's (SRO) RISE II Health Services Delivery (HSD) Activity. The purpose of this RFI is to obtain feedback from stakeholders prior to SRO potentially issuing a Notice of Funding Opportunity (NOFO) Announcement. This RFI is not a Request for Application (RFA). Therefore, USAID/Senegal is not accepting applications at this time.   
+Please provide no more than 4 pages of comments no later than June 15, 2018 through email to sahelregional@usaid.gov .   
+Responses/comments received from this RFI may be used for planning purposes. Responding to this RFI will not give any advantage to any potential applicant in any subsequent procurement and will not lead to an organizational conflict of interest. You may receive an electronic confirmation acknowledging receipt of your response.   
+USAID will hold a Pre-Solicitation Conference on June 04, 2018 at the U.S. Embassy in Dakar from 12:30 to 15:00 local time (GMT). For convenience, another alternate site for participation through VTC may be provided in the Washington, D.C. area.
+eligibility: Eligible Applicants:  
+Others (see text field entitled "Additional Information on Eligibility" for clarification)  
+
+Additional Information on Eligibility:  
+This is an RFI.
+categories_display: {"Medical Sciences": {"Health": null}}
+limited_grant_info: nan
+user_categories: nan
+submit_date: 2018-05-21 02:20:45
+is_limited: 0
+site_categories: Health
+cost_sharing: No
+grant_source_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=305335
+deadlines: 
+      
+amounts: 
+      
+all_types: Collaboration/Cooperative Agreement
+all_applicant_types: None
+locations: None
+sponsors: 
+      
+ext_grant_id: RFI-625-18-RISEII-HSD
+replaces: nan

@@ -1,0 +1,43 @@
+id: 305988
+url: https://www.grantforward.com/grant?grant_id=305988
+amount_info: nan
+site_grant_type: nan
+modified_date: 2019-04-01 06:01:33
+application_url: https://www.rand.org/well-being/social-and-behavioral-policy/centers/aging/rsi.html
+title: RAND Summer Institute - Mini-Medical School
+all_titles: RAND Summer Institute - Mini-Medical School
+submission_info: Application Instructions:
+
+In addition to the registration form, the following support materials must also be submitted:
+- A curriculum vita (in Word or PDF format).
+- One letter of recommendation addressing the applicant's demonstrated abilities and commitment to future research in the field.
+All support materials may be submitted electronically via email to epayne@rand.org (this is the preferred method). 
+Or you can mail it to the following: RAND; Attn: Emily Payne; 1776 Main Street; Santa Monica, CA 90407.
+
+Please make sure all materials include your full name as it appears on this application form, and the subject line references RSI 2019 when emailing.
+all_grant_source_urls: http://www.rand.org/labor/aging/rsi/minimed.html
+status: Closed
+description: The Mini-Medical School, sponsored by the National Institute on Aging and the NIH Office of Behavioral and Social Sciences Research, is an invitational series of lectures about biomedical issues relating to aging. The Mini-Medical School program should be of interest to all non-medically trained scholars whose research relates to the aging process and the medical treatment of elderly.
+
+The program is organized as a series of lectures, each with a distinct theme. Topics will be drawn from the diverse fields of biomedicine, including biology, genetics, patient care, psychiatry, and other areas. Expert clinicians and researchers will lecture on how the practice of medicine can inform, and improve, social science research. Participants will gain insight into the science of aging and a greater understanding of relevant medical issues.
+
+The 2019 conference will be held July 89, just prior to the workshop in Demography, Economics, Psychology, and Epidemiology of Aging. Participants attending RSI are encouraged to attend both sessions. The Mini-Medical School will pay travel and living expenses for as many of the invited attendees as funds allow. This program affords a unique opportunity to learn about the practice of medicine in an informal setting with other social science researchers.
+eligibility: Qualified Institute applicants must hold a Ph.D. or have completed two years of a Ph.D. program and be actively working on a dissertation.
+categories_display: {"Medical Sciences": null}
+limited_grant_info: nan
+user_categories: Medical Sciences
+submit_date: 2019-02-12 23:23:13
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: http://www.rand.org/labor/aging/rsi/minimed.html
+deadlines: 
+      
+amounts: None
+all_types: Workshop/Conference
+all_applicant_types: Not for Organization; Not for Senior Researcher; Early Career Investigator; Not for Graduate; Not for Undergraduate; Individual
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

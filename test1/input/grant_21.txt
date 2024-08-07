@@ -1,0 +1,52 @@
+id: 275207
+url: https://www.grantforward.com/grant?grant_id=275207
+amount_info: nan
+site_grant_type: nan
+modified_date: 2018-09-27 04:08:45
+application_url: https://surdna.org/prospective-grantees/
+title: Thriving Cultures - Create
+all_titles: Thriving Cultures - Create
+submission_info: Letter of Inquiry
+
+We accept letters of inquiry from nonprofit organizations that believe there is strong alignment between their work and Surdnas funding priorities.  While all letters of inquiry are reviewed by Surdnas program staff, please be aware that the majority of Surdnas grantmaking is by invitation.  Very few unsolicited letters of inquiry have resulted in grants.
+
+Please note that we cannot respond to unsolicited calls or call regarding the status of letters of inquiry due to the number of such requests. 
+
+SUBMIT LOI
+https://surdna.fluxx.io/lois/new?utf8=%E2%9C%93&commit=Submit+a+Surdna+LOI
+all_grant_source_urls: https://surdna.org/strategy/create/
+status: Closed
+description: The Outcomes We Seek
+
+Increased Funding
+We seek to increase public and private funding to artists, culture-bearers, designers, media-makers, arts nonprofits, and creative businesses of color.
+
+Strengthened Ecosystem
+We seek to strengthen and increase the visibility of networks of multi-generational and multi-racial arts, culture, design and media leaders.
+
+We believe that increasing the number and percentage of stable and established artists, culture-bearers, designers, and media-makers of color will lead to our long-term outcomes of communities having the power and capacity to hold government and private entitiesthose that contribute to inequitable racial outcomesaccountable to their constituents and communities and will lead to adoption of more racially-just systems.
+
+To achieve these outcomes, we intend to influence public and private grantmaking in order to increase the amount of public and private funding that artists, culture-bearers, designers, and media-makers of color receive, as well as explore opportunities to change the racial and gender dynamics of funders and investors.
+
+We seek to shift government and corporate policies that impact marginalized communities and communities of color, through the work of artists, culture-bearers, designers, and media-makers of color and their communities. Additionally, we continue to value tailored and targeted support systems for artists of color that nurture their ideas and growth via connections to mentors, capital, skills and information.
+eligibility: We accept letters of inquiry from nonprofit organizations that believe there is strong alignment between their work and Surdnas funding priorities.
+
+Selection Criteria
+Program criteria are being developed at this time and will be shared on this page in early 2019.
+categories_display: {"Arts": null, "Environmental Sciences": {"Ecology": {"Ecosystems": null}}}
+limited_grant_info: nan
+user_categories: Arts;Environmental Sciences;Ecology;Ecosystems
+submit_date: 2018-09-27 04:08:45
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://surdna.org/strategy/create/
+deadlines: None
+amounts: None
+all_types: Other
+all_applicant_types: Not for Individual; Organization; Non-profit; Not for Commercial
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

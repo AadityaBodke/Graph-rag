@@ -1,0 +1,34 @@
+{
+    "llm": {
+        "api_key": "${API_KEY}",
+        "type": "openai_chat",
+        "model": "gpt-3.5-turbo",
+        "max_tokens": 1000,
+        "temperature": 0.5
+    },
+    
+    "input": {
+        "file_type": "text",
+        "base_dir": "/grants"
+    },
+
+    "parallelization": {
+
+    },
+    "async_mode": {},
+    "embeddings": {},
+    "chunks": {},
+    "cache": {},
+    "storage": {},
+    "reporting": {},
+    "entity_extraction": {},
+    "summarize_descriptions": {},
+    "claim_extraction": {},
+    "community_reports": {},
+    "cluster_graphs": {},
+    "embed_graph": {},
+    "umap": {},
+    "snapshots": {},
+    "encoding_model": {},
+    "skip_workflows": {}
+}

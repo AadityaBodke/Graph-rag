@@ -1,0 +1,61 @@
+id: 299783
+url: https://www.grantforward.com/grant?grant_id=299783
+amount_info: nan
+site_grant_type: nan
+modified_date: 2019-01-14 02:27:27
+application_url: http://www.collegeart.org/jobs-and-opportunities/opportunities/listing/16555/
+title: Andrew W. Mellon Curatorial Fellowships
+all_titles: Andrew W. Mellon Curatorial Fellowships
+submission_info: Qualified candidates should send a cover letter of interest to the attention of RoseLee Goldberg and a CV to jobs@performa-arts.org with "Mellon Fellow" in the subject line. Only candidates who meet the above criteria will be contacted for potential interviews.
+all_grant_source_urls: http://www.collegeart.org/jobs-and-opportunities/opportunities/listing/16555/
+status: Closed
+description: Andrew W. Mellon Curatorial Fellowships at Performa are designed to provide a comprehensive training experience for post-doctoral scholars interested in curating contemporary performance art, new media, dance, music, and film. The Fellow will work closely with Performa's curatorial team, external curators, and an international advisory board, and will participate in year-round Performa Institute initiatives, traveling exhibitions, and programs. Opportunities include contributing to programming for the Performa Institute, conferences, publications, and-during biennial years-researching and contributing to the realization of a biennial performance. During the Performa biennial, the Fellow will be involved with the coordination and day-to-day operation of the Performa Institute at the Performa Hub. The Fellow will be involved in ongoing historical research of live performance by artists from around the globe, as well as with the editorial content for Performa Magazine, providing opportunities for substantive research and writing. The Fellow will also gain in-depth exposure to the practice of contemporary artists and to current issues in curating performance in a museum and gallery context.
+
+RESPONSIBILITIES
+
+ Conduct curatorial research with Performa's curatorial team, including compilations of artists' information, interviews, or other material;
+ Contribute to programming for the Performa Institute's year-round activities;
+ Prepare project descriptions and biographical archive on artists;
+ Collaborate with press and marketing associates to prepare curatorial information in a timely fashion, including material gathered from Performa Consortium partners;
+
+ Represent Performa by participating in lectures, symposia, and other external programming that further and raise awareness of our mission;
+ Assist development associates on the funding structure of non-profit organizations, including foundation research and grant-writing where appropriate;
+ Support with curatorial activities leading up to the Performa Biennial, including interviews with artists and curators, lectures, and seminars;
+ Design and develop an independent project within the guidelines of the upcoming Biennial and research initiatives of the organization;
+ Work closely with the Producing Director to understand pre-production, budgeting, and marketing of Performa productions;
+ Undertake projects to catalog and archive photographic, video, and audio documentation;
+ Contributing writer for the Performa Magazine and Performa Biennial publication.
+eligibility: Applicants must hold a PhD degree in 20th- or 21st-Century Art, or in a related field with a broad knowledge of and interest in modern and contemporary art. An ability to work collaboratively and to effectively contribute to Performa's senior curatorial and management team is a requirement. The position is paid and full time for 2 years.
+
+RESPONSIBILITIES
+
+ Conduct curatorial research with Performa's curatorial team, including compilations of artists' information, interviews, or other material;
+ Contribute to programming for the Performa Institute's year-round activities;
+ Prepare project descriptions and biographical archive on artists;
+ Collaborate with press and marketing associates to prepare curatorial information in a timely fashion, including material gathered from Performa Consortium partners;
+
+ Represent Performa by participating in lectures, symposia, and other external programming that further and raise awareness of our mission;
+ Assist development associates on the funding structure of non-profit organizations, including foundation research and grant-writing where appropriate;
+ Support with curatorial activities leading up to the Performa Biennial, including interviews with artists and curators, lectures, and seminars;
+ Design and develop an independent project within the guidelines of the upcoming Biennial and research initiatives of the organization;
+ Work closely with the Producing Director to understand pre-production, budgeting, and marketing of Performa productions;
+ Undertake projects to catalog and archive photographic, video, and audio documentation;
+ Contributing writer for the Performa Magazine and Performa Biennial publication.
+categories_display: {"Arts": null}
+limited_grant_info: nan
+user_categories: Arts
+submit_date: 2019-01-14 02:27:27
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: http://www.collegeart.org/jobs-and-opportunities/opportunities/listing/16555/
+deadlines: 
+      
+amounts: None
+all_types: Fellowship/Scholarship/Dissertation
+all_applicant_types: Not for Organization; Not for Senior Researcher; Early Career Investigator; Not for Graduate; Not for Undergraduate; Individual
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

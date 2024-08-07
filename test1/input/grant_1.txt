@@ -1,0 +1,86 @@
+id: 79349
+url: https://www.grantforward.com/grant?grant_id=79349
+amount_info: Former and current members of ASHA's Board of Ethics review the essays and select three winning authors. SEEA winners receive the following:
+
+-    One student registration to the [ASHA Convention](https://convention.asha.org/) (first-place winner only)
+-    Monetary prizes ($1,000, $750, and $500 for first, second, and third place, respectively)
+-    Certificates of achievement
+-    A [1-year membership to National NSSLHA](https://www.nsslha.org/membership/)
+site_grant_type: nan
+modified_date: 2022-09-14 05:34:42
+application_url: https://www.asha.org/practice/ethics/essay_award/
+title: American Speech-Language-Hearing Association Student Ethics Essay Award
+all_titles: American Speech-Language-Hearing Association Student Ethics Essay Award
+submission_info: 1.    Confirm that you and your essay meet the eligibility and format requirements.
+2.    Notify your program director that you will be submitting an essay for the SEEA contest.
+3.    Go online to [fill out the SEEA application and upload your essay](https://ashaprograms.secure-platform.com/a/solicitations/2423/home)-you can save your work and submit it when you're ready.
+4.    Meet the deadline: Essays and applications must be submitted by 11:59 p.m. Eastern Time on Friday, February 3, 2023; the online submission system closes automatically and new or incomplete entries are not accepted.
+
+**Essay Topic: A Mindful Approach to Integrating Ethics Into Professional Practice**
+You've established a mindful approach to your daily professional practice and, as a next step, you re working to mindfully integrate ethics to build a safe, rewarding, and successful practice.
+
+In your essay:
+
+1.    Discuss how you will make the Code of Ethics a living document in your daily practice.
+2.    Select one of the Principles and corresponding Rules below.
+    -    Principle II: Individuals shall honor their responsibility to achieve and maintain the highest level of professional competence and performance.
+        -    Rule A: Individuals who hold the Certificate of Clinical Competence shall engage in only those aspects of the professions that are within the scope of their professional practice and competence, considering their certification status, education, training, and experience.
+    -    Principle IV: Individuals shall uphold the dignity and autonomy of the professions, maintain collaborative and harmonious interprofessional and intraprofessional relationships, and accept the professions' self-imposed standards.
+        -    Rule R: Individuals shall comply with local, state, and federal laws and regulations applicable to professional practice, research ethics, and the responsible conduct of research.
+3.    Using the selected Principle and Rule
+    -    describe your aspirational/reflective approach to applying this Principle and Rule in a clinical or research setting, and
+    -    explain how your approach may minimize potential violations of the Code of Ethics.
+**Essay Requirements**
+To receive the maximum score available, you and your essay must first meet all of the following requirements.
+
+-    Essay Format
+    -    1,200 words or less, excluding title and any references
+    -    Standard format including title, introduction, body, and summary/conclusion
+    -    Microsoft Word (.docx), 12-point font, double-spaced
+    -    Page numbers in footer, starting with first page
+    -    No footnotes, only end notes
+    -    All sources cited when quoted, even Code of Ethics
+    -    No identifying information (e.g., name, address, institution) on the essay
+-    Entries must be original work, unpublished, and not under consideration for publication elsewhere.
+-    Students may not submit more than one essay; submissions of entries authored by multiple individuals will not be considered.
+-    Students must notify their CSD program director of their participation before submitting their entry.
+all_grant_source_urls: http://www.asha.org/practice/ethics/essay_award=CZD=https://www.asha.org/practice/ethics/essay_award/
+status: Closed
+description: Submissions for the 2023 Student Ethics Essay Award (SEEA) competition are now being accepted. Authors of winning essays will be notified in May 2023. See [SEEA Award recipients](https://www.asha.org/practice/ethics/student-ethics-essay-award-recipients/) to view previous winners and read their winning essays.
+
+The SEEA program is conducted as part of ASHA's efforts to enhance ethics education activities. The goal of the program is to encourage students to think about ethical decision making and create greater awareness of situations that could pose ethical dilemmas as they prepare to start careers in audiology, speech-language pathology, or speech, language, and hearing sciences.
+
+The essay competition is open to students who are enrolled in any undergraduate, post baccalaureate, or entry-level graduate program (U.S. only) in communication sciences and disorders (CSD). Former and current members of ASHA's Board of Ethics review the essays and select three winning authors. SEEA winners receive the following:
+
+-    One student registration to the [ASHA Convention](https://convention.asha.org/) (first-place winner only)
+-    Monetary prizes ($1,000, $750, and $500 for first, second, and third place, respectively)
+-    Certificates of achievement
+-    [A 1-year membership to National NSSLHA](https://www.nsslha.org/membership/) 
+In collaboration with NSSLHA, SEEA winners and their essays are recognized in the following locations.
+
+-    On the ASHA website and on ASHA social media
+-    On the [National NSSLHA website](https://www.nsslha.org/), on the [National NSSLHA Blog](https://blog.nsslha.org/2020/01/21/navigating-the-murky-waters-of-social-media-as-a-professional/), and on National NSSLHA social media
+eligibility: Students: To be considered eligible to participate in the SEEA competition, you must be
+
+-    enrolled in any undergraduate, post baccalaureate, or entry-level graduate program (U.S. only) in CSD, and
+-    enrolled part-time or full-time during the 2022-2023 academic year.
+categories_display: {"Education": null, "Medical Sciences": {"Biomedicine": {"Audiology": null}, "Pathology": null}, "Humanities": {"Philosophy": {"Ethics": null}}, "Life Sciences": {"Human Anatomy": {"Anatomical Systems": {"Sensory System": {"Hearing": null}}}}}
+limited_grant_info: nan
+user_categories: Humanities;Philosophy;Ethics;Education;Medical Sciences;Biomedicine;Audiology;Pathology;Life Sciences;Human Anatomy;Anatomical Systems;Sensory System;Hearing
+submit_date: 2014-08-21 00:00:59
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.asha.org/practice/ethics/essay_award/
+deadlines: 
+      
+amounts: 
+      
+all_types: Other
+all_applicant_types: Undergraduate; Individual; Not for Early Career Investigator; Graduate; Not for Organization; Not for Senior Researcher
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

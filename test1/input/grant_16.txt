@@ -1,0 +1,35 @@
+id: 261659
+url: https://www.grantforward.com/grant?grant_id=261659
+amount_info: Creative Equity Fund supports arts and culture-based strategies that address the structural racism impacting our communities and build racial justice. For 2021/2022, the Creative Equity Fund aims to direct a total of $600,000 to support arts and cultural groups and other community-based organizations located within King County which are actively using arts and culture-based strategies to 3work toward racial justice. This current round of funding will focus on making grants to organizations most directly impacted by structural racism and colonization, those that are led by and serve Black and Indigenous people.
+site_grant_type: nan
+modified_date: 2021-04-07 21:36:44
+application_url: https://www.seattlefoundation.org/nonprofits/nonprofitgrantopportunities
+title: Creative Equity Fund
+all_titles: Creative Equity Fund
+submission_info: To apply, please visit the online application (https://www.grantinterface.com/Home/Logon?urlkey=seattle). Grant seekers are encouraged, but not required, to attend the Creative Equity Fund public info session on April 14th at 11am. To register for the webinar, please click here (https://www.seattlefoundation.org/news-and-updates/events/april-14-2021-public-info-session-creative-equity-fund). Our FAQs regarding this latest funding effort is available for any prospective grant seekers.
+all_grant_source_urls: https://www.seattlefoundation.org/nonprofits/nonprofitgrantopportunities=CZD=https://www.seattlefoundation.org/nonprofits/communitycampaigns/creative-equity-fund
+status: Closed
+description: Creative Equity Fund supports arts and culture-based strategies that address the structural racism impacting our communities and build racial justice. For 2021/2022, the Creative Equity Fund aims to direct a total of $600,000 to support arts and cultural groups and other community-based organizations located within King County which are actively using arts and culture-based strategies to 3work toward racial justice. This current round of funding will focus on making grants to organizations most directly impacted by structural racism and colonization, those that are led by and serve Black and Indigenous people.
+
+Creative Equity Fund is administered by Seattle Foundation and made possible thanks to the generous support from a collection of funders, including ArtsFund, 4Culture, Macklemore, Microsoft, Satterberg Foundation, Seattle Office of Arts & Culture, Seattle Foundation, The Sheri and Les Biller Family Foundation and individual philanthropists.
+eligibility: Creative Equity Fund supports arts and culture-based strategies that address the structural racism impacting our communities and build racial justice. For 2021/2022, the Creative Equity Fund aims to direct a total of $600,000 to support arts and cultural groups and other community-based organizations located within King County which are actively using arts and culture-based strategies to 3work toward racial justice. This current round of funding will focus on making grants to organizations most directly impacted by structural racism and colonization, those that are led by and serve Black and Indigenous people.
+categories_display: {"Urbanism": null, "Arts": null}
+limited_grant_info: nan
+user_categories: Arts;Urbanism
+submit_date: 2018-07-19 23:35:17
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.seattlefoundation.org/nonprofits/communitycampaigns/creative-equity-fund
+deadlines: 
+      
+amounts: 
+      
+all_types: Artistic/Exhibit/Collection
+all_applicant_types: Organization; Not for Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

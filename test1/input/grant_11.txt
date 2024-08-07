@@ -1,0 +1,52 @@
+id: 213040
+url: https://www.grantforward.com/grant?grant_id=213040
+amount_info: Award Ceiling: $18,000,000  
+Award Floor: $18,000,000
+site_grant_type: Cooperative Agreement
+modified_date: 2023-04-13 06:01:01
+application_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=298577
+title: Responding to Pakistan's Internally Displaced (RAPID) III
+all_titles: Responding to Pakistan's Internally Displaced (RAPID) III
+submission_info: RELATED DOCUMENTS:   
+
+Folder: Full Announcement - 720FDA18RFA00002 (RAPID) III
+[720FDA18RFA00002-Full Announcement - 720FDA18RFA00002 (RAPID) III.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/34104)
+Nov 09, 2017 05:16:09 PM EST
+
+USAID DCHA OFDA RFA NO. 720FDA18RFA00002 - PAKISTAN RAPID III
+[USAID DCHA OFDA RFA NO. 720FDA18RFA00002 - PAKISTAN RAPID III.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/267602)
+Nov 09, 2017 05:16:09 PM EST
+
+Folder: Other Supporting Documents - RFA Questions and Answers
+[720FDA18RFA00002-Other Supporting Documents - RFA Questions and Answers.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/34213)
+Nov 21, 2017 11:22:38 AM EST
+
+RAPID III - RFA Questions & Answers
+[RAPID III - RFA No. 720FDA18RFA00002 - Questions & Answers.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/267862)
+Nov 21, 2017 11:22:38 AM EST
+all_grant_source_urls: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=298577
+status: Closed
+description: Funding Opportunity Number: 720FDA18RFA00002  
+
+The United States Agency for International Development (USAID) is seeking applications for a cooperative agreement from qualified U.S. and Non-U.S. organizations to fund a program entitled Responding to Pakistan's Internally Displaced III (RAPID III). Eligibility for this award is restricted to Section C of this Notice of Funding Opportunity (NFO) for eligibility requirements.Subject to the availability of funds an award will be made to that responsible applicant(s) whose application(s) best meets the objectives of this funding opportunity and the selection criteria contained herein. While one award is anticipated as a result of this NFO, USAID reserves the right to fund one or more or none of the applications submitted.
+eligibility: Eligible Applicants:  
+Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled "Additional Information on Eligibility
+categories_display: {}
+limited_grant_info: nan
+user_categories: nan
+submit_date: 2017-11-14 19:15:57
+is_limited: 0
+site_categories: Disaster Prevention and Relief
+cost_sharing: No
+grant_source_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=298577
+deadlines: 
+      
+amounts: 
+      
+all_types: Collaboration/Cooperative Agreement
+all_applicant_types: None
+locations: None
+sponsors: 
+      
+ext_grant_id: 720FDA18RFA00002
+replaces: nan

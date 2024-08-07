@@ -1,0 +1,45 @@
+id: 278480
+url: https://www.grantforward.com/grant?grant_id=278480
+amount_info: A total of up to $21 million may be awarded. Awards from $100,000 to $1,000,000 will be given to nominated cities and counties that show an ethic in building transportatoin infrastructure for all uses, including pedestrians, cyclists, and transit users.
+site_grant_type: nan
+modified_date: 2022-11-08 05:35:45
+application_url: http://www.tib.wa.gov/grants/grants.cfm#other
+title: TIB Funding Opportunity - Complete Streets Award
+all_titles: TIB Funding Opportunity - Complete Streets Award
+submission_info: How to Nominate
+Nominating agencies will fill out a simple 2-page form describing what motivates a nominator to nominate a city for an award. Nominators may describe activities or projects that indicate an ethic of building complete streets. Examples include: non-motorized master plans, current projects that accommodate non-motorized users, or future projects that retrofit streets and roads to include more users.
+
+What Should Agencies Do?
+Cities and counties should have an adopted complete streets policy and show an ethic of building for all users. Many agencies have been doing this without an official policy and these activities may be considered during nomination and evaluation by TIB staff. TIB encourages working with nominating organizations, especially during design and development of projects to ensure nomination.
+all_grant_source_urls: http://www.tib.wa.gov/grants/grants.cfm#other
+status: Closed
+description: The Transportation Improvement Board has annouced the 2018 call for nominations for the Complete Streets Award program. Nominations for the award will be accepted from July 2018 to December 14, 2018. Awards will be annouced at the March 2019 board meeting.
+
+A total of up to $21 million may be awarded. Awards from $100,000 to $1,000,000 will be given to nominated cities and counties that show an ethic in building transportatoin infrastructure for all uses, including pedestrians, cyclists, and transit users.
+
+About TIB
+The Transportation Improvement Board funds high priority transportation projects in communities throughout the state to enhance the movement of people, goods and services.
+
+The Complete Streets Award is a new funding opportunity for local governments. The legislature provided funding in 2015 and the first awards were given in January of 2017. The next awards are scheduled for an open call in 2018 and awards in 2019.
+
+TIB has developed this new funding source to be different from its other grant programs. The Complete Streets Award is flexible money given to any city or county in Washington state who has an adopted complete streets ordinance and shows an ethic of planning and building streets that use context sensitive solutions to accommodate all users, including pedestrians, transit users, cyclists, and motorists.
+eligibility: Awards from $100,000 to $1,000,000 will be given to nominated cities and counties that show an ethic in building transportatoin infrastructure for all uses, including pedestrians, cyclists, and transit users.
+categories_display: {"Transportation": null}
+limited_grant_info: nan
+user_categories: Transportation
+submit_date: 2018-10-09 02:34:33
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: http://www.tib.wa.gov/grants/grants.cfm#other
+deadlines: 
+      
+amounts: 
+      
+all_types: Other
+all_applicant_types: Not for Individual; Organization; Government
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

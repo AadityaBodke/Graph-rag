@@ -1,0 +1,53 @@
+id: 275204
+url: https://www.grantforward.com/grant?grant_id=275204
+amount_info: nan
+site_grant_type: nan
+modified_date: 2018-09-27 04:08:12
+application_url: https://surdna.org/strategy/equitable-economic-development/
+title: Inclusive Economies - Equitable Economic Development
+all_titles: Inclusive Economies - Equitable Economic Development
+submission_info: Letter of Inquiry
+
+We accept letters of inquiry from nonprofit organizations that believe there is strong alignment between their work and Surdnas funding priorities.  All letters of inquiry are reviewed by Surdnas program staff, but the majority of our grantmaking is by invitation. Very few unsolicited letters of inquiry have resulted in grants. Due to the high volume of inquiries we receive, we are unable to respond to unsolicited requests for support.
+
+SUBMIT LOI
+https://surdna.fluxx.io/lois/new?utf8=%E2%9C%93&commit=Submit+a+Surdna+LOI
+all_grant_source_urls: https://surdna.org/strategy/equitable-economic-development/
+status: Closed
+description: The Outcomes We Seek
+
+A More Inclusive Economic Development Practice
+We seek to shift economic development practices to be more inclusive of people of color and produce better outcomes for our priority communities.
+
+Increased Advocacy for Equitable Development
+We seek to improve labor standards by increasing community voice in policy processes and by creating greater public and private sector accountability.
+
+We support a cultural shift in economic development efforts through training programs, industry networks and technical assistance that equip government agencies with the necessary tools to embed accountability and equity into their economic development work. We believe that increasing the representation of diverse and progressive constituents in economic development decision making will lead to new policies and practices that produce better outcomes for people of color and low-wealth communities.
+
+We believe that advocacy and organizing efforts have shifted public policy and private sector practices in relation to labor laws that benefit our priority communities. We support efforts to develop new progressive policies, protect existing progressive policies, and abolish regressive policies that harm people of color and low-wealth communities. We also plan to use this intervention for targeted support of cities or regions for longer-term place-based investments.
+eligibility: We accept letters of inquiry from nonprofit organizations that believe there is strong alignment between their work and Surdnas funding priorities.
+
+__ Selection Criteria
+
+Promote Diverse Perspectives
+We will support projects that foster a more diverse and inclusive public sector and prioritize the perspectives and innovations developed by its most marginalized citizens  leading to new systems of accountability and economic growth that is truly felt by all.
+
+Reforms to Procurement and Labor Standards:
+We will support organizations that provide field infrastructure, research, and initiatives that improve labor standards and procurement policies.
+categories_display: {"Social Sciences": {"Economics": {"Economic Development": null}}}
+limited_grant_info: nan
+user_categories: Economic Development
+submit_date: 2018-09-27 04:08:12
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://surdna.org/strategy/equitable-economic-development/
+deadlines: None
+amounts: None
+all_types: Other
+all_applicant_types: Not for Individual; Organization; Non-profit; Not for Commercial
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

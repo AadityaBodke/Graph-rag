@@ -1,0 +1,45 @@
+id: 284725
+url: https://www.grantforward.com/grant?grant_id=284725
+amount_info: This grant will award $5,000 to a recently completedor currently being completeddramatic feature film directed by a woman.
+site_grant_type: nan
+modified_date: 2022-11-08 05:37:43
+application_url: https://www.nywift.org/fund-for-women-filmmakers/the-nancy-malone-marketing-promotion-grant/
+title: The Nancy Malone Marketing & Promotion Grant
+all_titles: The Nancy Malone Marketing & Promotion Grant
+submission_info: Please fill out the application available on this page, and send that with the following supplemental information as separate PDFs to grants@nywift.org:
+
+1. Download Application form
+2. 2 page description of the project
+3. Project budget, indicating amount raised to date
+4. Marketing/promotion plan
+5. Bio of director
+6. Online link of the film (please make sure links remain live through 12/19
+all_grant_source_urls: https://www.nywift.org/fund-for-women-filmmakers/the-nancy-malone-marketing-promotion-grant/
+status: Closed
+description: The New York Women in Film & Television Nancy Malone Marketing and Promotion (MAP) Grant will provide resources to help an emerging woman director get her film recognized and ready for distribution.
+
+This grant will award $5,000 to a recently completedor currently being completeddramatic feature film directed by a woman. First-time, US-based dramatic feature filmmakers are eligible. Films co-directed by a woman and a man are not eligible.
+
+The Nancy Malone MAP Grant may be used for festival entry fees, marketing materials, video duplication, publicists, promotion at the films opening, or other approved marketing and promotional expenses. The grantee will provide a marketing plan with proposed expenses for approval by NYWIFT. Grant funds may not be used for the filmmakers travel or living expenses.
+eligibility: The New York Women in Film & Television Nancy Malone Marketing and Promotion (MAP) Grant will provide resources to help an emerging woman director get her film recognized and ready for distribution.
+
+To be eligible, films must be completed or have locked picture. Films that have already been released theatrically, on television, online or on DVD will not be eligible. Applications will be judged by a panel of experts.
+categories_display: {"Arts": {"Fine Arts": {"Visual Arts": {"Media Arts": {"Film": null}}}}}
+limited_grant_info: nan
+user_categories: Film;Arts;Fine Arts;Visual Arts;Media Arts
+submit_date: 2018-11-07 05:33:51
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.nywift.org/fund-for-women-filmmakers/the-nancy-malone-marketing-promotion-grant/
+deadlines: 
+      
+amounts: 
+      
+all_types: Publishing/Editorial
+all_applicant_types: Not for Organization; Women; Individual
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

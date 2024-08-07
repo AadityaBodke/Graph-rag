@@ -1,0 +1,134 @@
+id: 303548
+url: https://www.grantforward.com/grant?grant_id=303548
+amount_info: ++ Funding
+
+No maximum or minimum loan amount. However, the amount of the grant may not exceed $4,000,000 or 40% of the total combined grant and loan award, whichever is less. Private developers are only eligible for loans.
+
+++ Repayment
+
+Loans will be patient  no repayment until property is sold or leased or 5 years from the date of closing, whichever comes first.
+
+++ Purpose of Funding
+
+- Site Development and Business
+- Infrastructure
+- Land & Building
+
+++ Terms
+
+Loans will be repaid over a period not to exceed 20 years. The interest rate for the loan will be 2% or 3% depending on the unemployment rate of the county where the project is located when the CFA is in a first lien position. If the CFA is in a subordinate lien position, the interest rate will be 8% or 9% based on the unemployment rate of the county where the project is located.
+site_grant_type: nan
+modified_date: 2022-11-08 05:35:56
+application_url: https://dced.pa.gov/download/business-sites-guidelines/?wpdmdl=67429
+title: Business in Our Sites Grants/Loans (BOS)
+all_titles: Business in Our Sites Grants/Loans (BOS)
+submission_info: Apply
+https://www.esa.dced.state.pa.us/Login.aspx
+
+To apply for funding, the applicant must submit the electronic on-line DCED Single Application for Assistance located at www.esa.dced.state.pa.us. Please print 6 copies of the application, and send with the required supplemental information (please see Appendix I of these guidelines via US Mail along with the signature page. Applications must be received in accordance with the Application Review Schedule with may be accessed at dced.pa.gov/cfa. Please reference the Single Application number on any documents sent with the signature page.
+
+Supplemental Information for the Single Application for Assistance Business in Our Sites onstruction Grants and Loans In addition to completing the on-line DCED Single Application for Assistance, please include the following items when applying for construction grants/loans:
+
+Exhibit 1: Provide a description of the project which discusses all of the following: the specific location of the site and site characteristics such as the useable acreage and buildable square footage of the site; any characteristics of the area in which the site is located that demonstrate a need for economic development; whether the proposed development of the site is consistent with an existing county comprehensive plan and, in the case of an undeveloped site, with an existing municipal comprehensive plan; the historical and proposed use of the site; the specific infrastructure and site development activities proposed for the site; the experience of the developer, including a discussion of previous projects completed; the estimated start and end dates of construction; the existence or absence of already prepared sites within the county; whether the site has been identified as a priority investment in a local or regional economic development plan or strategy; and the potential employment opportunities to be realized as a result of the project.
+
+Exhibit 2: A feasibility/marketing analysis for the project conducted by an independent third party and which includes all information on competing sites, economic trends of the market area, absorption rates, etc.
+
+Exhibit 3: A statement as to the estimated cost of the project. The estimate must be prepared by an engineer or other qualified professional and should be accompanied where appropriate by copies of the signed bids/quotations, contractor estimates, or sales agreements that verify project cost estimates.
+
+Exhibit 4: Funding commitment letters from all other project funding sources if applicable (including equity commitments . Letters should include the term, rate, and collateral conditions, and must be signed and dated.
+
+Exhibit 5: A color-coded map or plot plan detailing the location of the infrastructure.
+
+Exhibit 6: The most recent financial statements of the applicant, parent company (if for-profit applicant, and any proposed guarantors. Financial statements should include balance sheets, income statements, and notes to financials.
+
+Exhibit 7: A projected cash flow analysis which includes all expenses and revenues covering the period of time from project commencement through lease-up/build-out and/or sale of the property, or the full repayment of the loan, whichever occurs later. (see Appendix II and III for samples .
+
+Exhibit 8: The collateral that will be offered to the Commonwealth as security for the loan. Provide an appraisal prepared by either a Member, Appraisers Institute (MAI formerly Institute of Real Estate Appraisers (MAI or a PA State Certified Appraiser, completed in such a way that it provides the As Is appraised value of the site and the As Completed appraised value once site development activities have been completed. The appraisal must be no more than six months old.
+
+Exhibit 9: A statement as to the amount of loan or grant and loan funding being requested and a description of the proposed repayment terms of the loan. Proposed terms may be based on a projected schedule of land sales and/or leases at projected land values.
+
+Exhibit 10: A letter from the appropriate planning agency certifying that the proposed project is in compliance with the comprehensive land use plans and zoning and subdivision codes.
+
+Exhibit 11: For public sector applicants, provide a resolution duly adopted by the applicants governing board formally requesting the loan, designating an official to execute all documents, describing briefly the project scope, and identifying the loan amount. (see Appendix IV for a sample resolution .
+
+Exhibit 12: For all applicants, provide copies of notifications provided to county and municipal governing bodies advising them of the proposed project.
+
+Send the completed attachments to:
+PA Department of Community & Economic Development
+Office of Business Financing  Site Development Division
+Business in Our Sites Program
+Commonwealth Keystone Building
+400 North Street, 4th Floor
+Harrisburg, PA 17120-0225
+all_grant_source_urls: https://dced.pa.gov/programs/business-in-our-sites-grants-and-loans-bos/
+status: Closed
+description: ++ Overview
+
+Empowers communities to attract growing and expanding businesses by helping them build an inventory of ready sites.
+
+++ Uses
+
+All site development activities that are required to make a site shovel-ready. This program is for speculative projects only. Funds cannot be used for projects that are primarily residential or recreational. Sites must be previously utilized property or undeveloped property that is planned and zoned for development.
+
+++ Statement of Purpose
+
+The Business in Our Sites Program (the "program" provides grants and loans for the acquisition and development of key sites for future use by businesses, private developers, and others. The program is administered through the Commonwealth Financing Authority (CFA .
+
+The program is intended to provide financial assistance to municipalities and others to plan and prepare sites for future use. Projects which require site development assistance where a business has already committed to locating at a specific site or where a private developer has already committed to locating a facility for a specific user may also seek financial assistance under other appropriate programs administered by the Department of Community and Economic Development ("DCED" . For information on these programs, please consult the DCED web site, dced.pa.gov, or contact the Center for Business Financing at the address located at the end of these guidelines.
+eligibility: A. Eligible Applicants  Any of the following:
+
+     1. Municipalities (Boroughs, Townships, Towns, Counties, Cities, Home Rule .
+     2. Redevelopment Authorities.
+     3. Municipal Authorities.
+     4. Industrial Development Agencies.
+     5. Private Developers (construction loans only .
+
+B. Eligible Projects
+
+     1. Previously Utilized Sites  A project is eligible for funding if it redevelops, reuses, or revitalizes a previously utilized site for future use by businesses or others. This includes but is not limited to a former or underutilized industrial, commercial, military, mining, railroad or institutional site or building.
+An institutional site includes, among other things, a former school or hospital.
+     2. Undeveloped Sites  An undeveloped site is eligible for funding if development of the site is consistent with an existing comprehensive county plan and/or an existing comprehensive municipal plan, and the site is zoned for such development at the time of application. If neither a comprehensive county plan nor a comprehensive municipal plan exists, then the applicant (if the applicant is not a municipality must demonstrate that it has notified the county and municipal governing bodies with jurisdiction over the site that is the subject of an application for a construction loan.
+     3. All applicants must present a plan to manage and market the development of the site and demonstrate that there is a substantial likelihood of future use of the site after the property is made shovel-ready, which future use will generate economic growth, revitalize a downtown, or otherwise strengthen the community or region and that the proposed future use will increase employment opportunities in the surrounding community
+
+C. Eligible Uses
+
+Except as otherwise noted, grant and loan funds may be used for any of the following purposes:
+
+     1. Acquisition of land and buildings, rights of way, and easements (loan funds only .
+     2. The construction or rehabilitation of the following:
+          a. Storm water drainage systems.
+          b. Energy facilities that generate or distribute power, including but not limited to, natural gas and electric transmission lines.
+          c. Sanitary sewer systems, including but not limited to, the construction or repair of sewage collection lines and sewage treatment facilities, including proration of costs for needed off-site facilities.
+          d. Water supply facilities, including but not limited to, construction or repair of ground water sources, water lines, and water storage and treatment facilities, including proration of costs for needed offsite facilities.
+          e. Transportation facilities directly affecting the site of the proposed development including: on-site and off-site road      improvements; traffic signals; parking facilities; sidewalks; bridges; rails, including but not limited to, the construction or rehabilitation of spurs, signals, crossings, and intermodal facilities; and port-related facilities, including but not limited to, dredging, docking facilities, bulkheads, and intermodal facilities.
+          f. Pipelines to transport natural gas.
+          g. Facilities for the transmission of information, including, but not limited to, telephone lines, fiberoptic telecommunications lines, and towers for wireless communications.
+          h. On-site amenities, such as recreational areas, which are reasonably expected to increase the value or attractiveness of the site.
+     3. Demolition of structures and removal of abandoned foundations.
+     4. At the discretion of the CFA, funds may be provided for building rehabilitation if it can be shown that the potential for site reuse will be greater with an existing structure on site (loan funds only .
+     5. The clearing and preparation of land.
+     6. Environmental site assessment and remediation.
+     7. Related engineering, design, and inspection costs. (Maximum of 10% of actual construction costs
+     8. Signage, landscaping, and street lighting.
+     9. Administrative costs, permit fees, legal costs, loan closing costs, and expenses for other professional services. (Maximum of 2%
+     10. Any other costs associated with the preparation of a specific site, at the discretion of the CFA.
+
+Ineligible expenses include, but are not limited to, fees for securing other financing, interest charges on borrowed funds (although reasonable capitalized interest and direct interest costs related to interim financing may be permitted, tap-in fees, unpaid taxes or municipal liens, and costs incurred prior to the approval of the grant and/or loan. Additionally, program funds may not be used to procure lobbying services or pay fines or reparations resulting from lawsuits, citations or regulatory actions.
+categories_display: {"Social Sciences": {"Economics": {"Economic Development": null}}, "Urbanism": {"Urban Studies": {"Communities": null}}}
+limited_grant_info: nan
+user_categories: Social Sciences;Economics;Economic Development;Urbanism;Urban Studies;Communities
+submit_date: 2019-01-29 21:02:54
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://dced.pa.gov/programs/business-in-our-sites-grants-and-loans-bos/
+deadlines: None
+amounts: 
+      
+all_types: Other
+all_applicant_types: Not for Individual; Organization; Government
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

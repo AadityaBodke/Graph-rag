@@ -1,0 +1,83 @@
+id: 291051
+url: https://www.grantforward.com/grant?grant_id=291051
+amount_info: 2018 Grant Awards Total $250,000
+site_grant_type: nan
+modified_date: 2022-11-01 03:49:36
+application_url: https://barringtonareacommunityfoundation.org/bacf-grant-information/
+title: Barrington Area Community Foundation Grant
+all_titles: Barrington Area Community Foundation Grant
+submission_info: 1. Create an account
+
+The first step is to create an account for your organization on the BACF website.
+
+Go to the menu in the upper right corner of the website, click, then click again on Log in. At the next window you will be prompted to enter your Username (or Email) and Password if you already have an account. You can also click Register to create an account.
+
+Note: if you lose your password, you can also retrieve a new one here.
+
+2. Create a Profile
+
+The second step is to create a Profile for your organization on the BACF website.
+
+Log in by going to the menu in the upper right corner of the website, click, then click again on Log in. You will be brought to the Grantee page. Here you can create or update your profile.
+
+In order to complete your Profile you must upload your 501(c)(3) ruling or your application to the IRS. Have these documents ready before you start your Profile.
+
+You can download the Tool Tip instructions for completing the Profile: BACF Profile Instructions 2019
+
+3. Application information & required Documents
+
+Read about the Grant Types below from the menu to determine the best grant option for your organization. Gather all the necessary documents based on your grant type.
+
+On the Grantee Dashboard, you will see the current year Grant Application in addition to your organizations Profile.
+
+These sections will provide more details on the process and information required to complete the online application.
+
+You can also read the useful Tool Tip Instructions for your Grant type.
+
+BUV Award:
+BUV instructions 2019
+
+Grants $5K or less:
+BACF $5000 or less Application Instructions 2019
+
+Grants over $5K:
+BACF over $5000 Instructions 2019
+
+4. Complete the online Application
+
+Using the information you gathered in STEP #3 you are now ready to complete your application online.
+
+Log in to the BACF website and you will be brought to your Profile and Application page.
+
+If you are unable to complete entering your application during one session, no worries, just click SAVE and come back to it later.
+
+When you are ready to officially apply, check the I am ready to apply for a grant box. The Application is now in Review process. At this time you will no longer be able to edit the Application.
+
+Remember: the application cannot be saved without uploading the required documents, so it is best to have them ready before starting the form.
+all_grant_source_urls: https://barringtonareacommunityfoundation.org/bacf-grant-information/
+status: Closed
+description: The mission of the Barrington Area Community Foundation is to address the unmet needs of the community. Each year BACF asks charities that serve the area to present grant requests for funds within their individual missions. The primary focus of the grant process is to provide seed money for new or expanding projects that follow our mission statement. We will also consider requests for unusual or unexpected Capital Improvements. 
+ 
+The Foundation will judge and make grants annually from its permanent funds based on the the degree of impact to the area population in School District 200 and the Barrington Area Council of Governments (BACOG) including the greater of the two. Our formula balances the local needs and at a minimum preserves the corpus of net assets.  
+ 
+Funding, not programming, is the basic function of the Foundation.
+eligibility: Local not-for-profit organizations are encouraged to attend and learn about our grant process and the Barrington Area Community Foundation.
+categories_display: {"Social Sciences": {"Political Science": {"Government": null}}, "Urbanism": {"Urban Studies": {"Communities": null}}}
+limited_grant_info: nan
+user_categories: Social Sciences;Political Science;Government;Communities
+submit_date: 2018-12-04 23:05:21
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://barringtonareacommunityfoundation.org/bacf-grant-information/
+deadlines: 
+      
+amounts: 
+      
+all_types: Equipment/Facility/Organization
+all_applicant_types: Not for Individual; Organization; Non-profit
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

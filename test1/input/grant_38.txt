@@ -1,0 +1,134 @@
+id: 298697
+url: https://www.grantforward.com/grant?grant_id=298697
+amount_info: nan
+site_grant_type: nan
+modified_date: 2019-01-07 23:35:07
+application_url: https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82627
+title: Strategic Partnerships Intern
+all_titles: Strategic Partnerships Intern
+submission_info: APPLY NOW https://jobs.undp.org/cj_apply.cfm?cur_job_id=82627
+all_grant_source_urls: https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82627
+status: Closed
+description: * Background
+UN Women, grounded in the vision of equality enshrined in the Charter of the United Nations, works for the elimination of discrimination against women and girls; the empowerment of women; and the achievement of equality between women and men as partners and beneficiaries of development, human rights, humanitarian action and peace and security.
+
+Asia and the Pacific
+
+Through the regional office in Bangkok and a number of country and multi-country offices, UN Women builds on a long history of support to governments and womens movements. UN Womens programmes in Asia and the Pacific focus on ending violence against women, humanitarian action, disaster risk reduction and climate change, womens economic empowerment, CEDAW and womens human rights, and peace and security. For more information about UN Women in Asia and the Pacific, please visit the official website.
+
+Strategic Partnerships
+
+At the regional office, the Strategic Partnerships Specialist is responsible for building partnerships with traditional donors as well as private sector entities, non-profit organisations and the media. In addition, the Strategic Partnerships Specialist supports country offices with their private sector engagement efforts and helps build their resource mobilisation capacity. The Strategic Partnerships Specialist is head of the Strategic Partnerships, Communications and Advocacy team and will be the interns supervisor.
+
+* Duties and Responsibilities
+The intern will perform the following tasks in support of the Strategic Partnerships Specialist:
+
+ Creating outreach materials for potential partners and donors;
+
+ Supporting due diligence procedures;
+
+ Conducting research in support of partnership-building efforts;
+
+ Writing meeting minutes;
+
+ Other related duties and assignments as required.
+
+* Competencies
+
+Core Values and Guiding Principles
+
+Integrity:
+
+ Demonstrate consistency in upholding and promoting the values of UN Women in actions and decisions, in line with the UN Code of Conduct.
+
+Professionalism:
+
+ Demonstrate professional competence and expert knowledge of the pertinent substantive areas of work.
+
+Cultural sensitivity and valuing diversity:
+
+ Demonstrate an appreciation of the multicultural nature of the organization and the diversity of its staff;
+
+ Demonstrate an international outlook, appreciating difference in values and learning from cultural diversity.
+
+Core Competencies
+
+Ethics and Values:
+
+ Demonstrate and safeguard ethics and integrity.
+
+Organizational Awareness:
+
+ Demonstrate corporate knowledge and sound judgment.
+
+Development and Innovation:
+
+ Take charge of self-development and take initiative.
+
+Work in teams:
+
+ Demonstrate ability to work in a multicultural, multi-ethnic environment and to maintain effective working relations with people of different national and cultural backgrounds.
+
+Communicating and Information Sharing:
+
+ Facilitate and encourage open communication and strive for effective communication.
+
+Self-management and Emotional Intelligence:
+
+ Stay composed and positive even in difficult moments, handle tense situations with diplomacy and tact, and have a consistent behavior towards other.
+
+Conflict Management:
+
+ Surface conflicts and address them proactively acknowledging different feelings and views and directing energy towards a mutually acceptable solution.
+
+Continuous Learning and Knowledge Sharing:
+
+ Encourage learning and sharing of knowledge.
+
+Appropriate and Transparent Decision Making:
+
+ Demonstrate informed and transparent decision making.
+eligibility: Education:
+
+ The intern must have studied in social sciences, international relations, business or other similar subject at the university level;
+
+ Be enrolled in a graduate school programme (second university degree or equivalent, or higher); Be enrolled in the final academic year of a first university degree programme (minimum Bachelor's level or equivalent); Have graduated with a university degree and, if selected, must commence the internship within a one-year period of graduation.
+
+Language:
+
+ Excellent communication skills (written and oral) in English are required; Working knowledge of another UN language a distinct advantage.
+
+Other:
+
+ Demonstrated commitment to gender equality and womens empowerment is essential;
+
+ Good IT skills are required;
+
+ The intern must be capable of presenting information in a concise and capturing way;
+
+ Demonstrated ability to work in a multicultural, multi-ethnic environment is essential;
+
+ The intern must have a strong sense of responsibility, a flexible and proactive mindset, and the ability to work independently.
+
+UNDP is committed to achieving workforce diversity in terms of gender, nationality and culture. Individuals from minority groups, indigenous groups and persons with disabilities are equally encouraged to apply. All applications will be treated with the strictest confidence.
+
+UNDP does not tolerate sexual exploitation and abuse, any kind of harassment, including sexual harassment, and discrimination. All selected candidates will, therefore, undergo rigorous reference and background checks.
+categories_display: {"Social Sciences": {"Political Science": {"International Relations": null}}, "Business Administration": null}
+limited_grant_info: nan
+user_categories: Social Sciences;Political Science;International Relations;Business Administration
+submit_date: 2019-01-07 23:35:07
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82627
+deadlines: 
+      
+amounts: None
+all_types: Internship/Work-study
+all_applicant_types: Individual; Undergraduate; Graduate; Not for Early Career Investigator; Not for Senior Researcher; Disability; Minority; Not for Organization
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

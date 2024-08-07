@@ -1,0 +1,58 @@
+id: 260716
+url: https://www.grantforward.com/grant?grant_id=260716
+amount_info: The funding of each preceptorship includes transportation, hotel and meal expenses, and a $500 honorarium for the Visiting Professor. The maximum total grant for a Visiting Professor from North America or a Visiting Professor traveling to a North America Center from abroad is $3,000.
+site_grant_type: nan
+modified_date: 2020-11-11 22:40:24
+application_url: http://applications.aona.org/applications/applicationsrouteresp#AONA_MICME=
+title: AOTrauma North America Visiting Professor Program
+all_titles: AOTrauma North America Visiting Professor Program
+submission_info: The Visiting Professorship will normally be for one or two days using any format of training, such as lectures, workshops, discussions, or a combination of the above.
+
+The Visiting Professorship will be available to any hospital with surgical services in North America. AO North America will fund a maximum of two Visiting Professors at a specific host institution per calendar year. Interested host institutions should submit:
+
+1) Completed Application
+2) Detailed outline of the desired Professorship to include:
+   a) Objectives
+   b) Goal
+   c) Educational format
+   d) Applicable program
+3) Letter of support from the Inviting Surgeon to the Visiting Professor on letterhead.
+4) Letter from the AO Visiting Professor confirming willingness to participate and agreeing with the proposed educational program on letterhead
+
+It is requested that the Visiting Professor submit his/her original receipts either to the institution he or she is visiting (for transmittal to AONA) or to the AONA office for reimbursement. The $500 honorarium will be automatically added to the reimbursement check.
+
+Note: AO North America will not support the expenses of an "AO Visiting Professor" invited to lecture at a regularly scheduled Society meeting, symposium, or instructional course. Only a pre-approved visit to a specific institution can be considered for funding support.
+
+One Visiting Professor Grant awarded per site, per year.
+
+Evaluation
+
+It is expected that AO North America's support of the Visiting Professorship be acknowledged during the lectures and also in any written material (programs/announcements) of the preceptorship.
+all_grant_source_urls: https://www.aona.org/Home/Programs/1?stid=VisitingProfessorProgram=CZD=https://www.aona.org/what-we-do/fellowships-and-other-programs/trauma-fellowships#visiting_professorship
+status: Closed
+description: * This preceptorship provides financial support for North American hospitals to invite an AO Faculty member (from North America or Europe) as a Visiting Professor in the teaching of Orthopedic or Maxillofacial Trauma treatment.
+
+* It is expected that AO North America's support of the Visiting Professorship be acknowledged during the lectures and also in any written material (programs/announcements) of the preceptorship.
+eligibility: This preceptorship provides financial support for North American hospitals to invite an AO Faculty member (from North America or Europe) as a Visiting Professor in the teaching of Orthopedic or Maxillofacial Trauma treatment.
+
+Application Type:
+Individual
+categories_display: {"Medical Sciences": {"Surgery": {"Orthopedics": null}, "Diseases and Disorders": {"Trauma": null}}}
+limited_grant_info: nan
+user_categories: Orthopedics;Trauma
+submit_date: 2018-07-17 02:03:46
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.aona.org/what-we-do/fellowships-and-other-programs/trauma-fellowships#visiting_professorship
+deadlines: 
+      
+amounts: 
+      
+all_types: Fellowship/Scholarship/Dissertation
+all_applicant_types: Not for Organization; Individual
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

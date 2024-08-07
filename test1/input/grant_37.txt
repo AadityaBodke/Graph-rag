@@ -1,0 +1,157 @@
+id: 298510
+url: https://www.grantforward.com/grant?grant_id=298510
+amount_info: You may ask for funding of up to  500,000 for up to three years.
+
+In exceptional circumstances, we may award up to  . This funding will be for projects that have the potential to bring about major change. If you plan to submit an award above  500,000, please discuss it with the Our Planet, Our Health team first. 
+
+Your costs should be justifiable and appropriate for your proposed activities.
+
+Our support includes:
+
+-staff
+-materials and consumables
+-equipment
+-access charges
+-research management and support costs
+-travel and subsistence
+-fieldwork expenses
+-inflation allowance
+-publication costs
+-other costs
+
+We don't fund costs for capital build or refurbishment.
+
+We don't fund overheads unless they're included on this page (eg research management and support costs).
+
+Level of funding:
+ 100,000 to  500,000 (up to  1 million in exceptional circumstances)
+site_grant_type: nan
+modified_date: 2021-11-06 08:01:07
+application_url: https://wellcome.ac.uk/funding/climate-change-and-health-awards
+title: Climate Change and Health Awards
+all_titles: Climate Change and Health Awards
+submission_info: You must submit your application through the Wellcome Trust Grant Tracker (WTGT).
+
+Start your application (opens in a new tab)https://wtgrants.wellcome.ac.uk/
+***Stages of application
+
+1/Submit your preliminary application
+You must submit your preliminary application through Grant Tracker (opens in a new tab), and follow these instructions:  
+
+1.Indicate which of the three focus areas your application will fall under in the 'Proposal summary' section. Your proposal may be relevant to more than one area. This information should be included in the first line of the 'Proposal summary' section, before an abstract is provided in this section.
+2.Do not exceed 500 words in the 'Details of the proposal' section.
+3.Do not use the 'Additional information' section.
+
+Applications which do not follow these instructions will not be considered.
+
+View the Sample preliminary application form for the Climate Change and Health Awards [PDF 92KB]
+https://wellcome.ac.uk/sites/default/files/sample-prelim-application-form-climate-change-and-health-awards-2018-08.pdf
+2/Review of your preliminary application
+We'll assess your eligibility and suitability and give you a decision within four weeks of the preliminary application deadline.
+
+If your preliminary application is successful, we'll invite you to submit a full application.
+
+In most cases, feedback won't be provided to unsuccessful applicants at the preliminary application stage. 
+
+3/Submit your invited full application
+Complete the full application form on Grant Tracker (opens in a new tab).
+
+If you have an 'authorised organisational approver', make sure you leave enough time for them to review and submit your application before the deadline. Universities must have an approver; for other host organisations you can state on the application form whether you want an approver. The approver may ask you to make changes to your application.
+
+View the Sample full application form for the Climate Change and Health Awards [PDF 265KB]
+
+4/Review of your full application
+The Climate Change and Health Review Committee will assess your application. 
+
+5/Workshop
+If your application focuses on evaluating the health co-benefits of climate change mitigation policies, we may ask you to take part in a workshop. The workshop will be held in London in February 2019.
+
+6/Decision
+We aim to give you a funding decision by March 2019. There are no interviews.
+
+Disabled applicants
+If you are disabled or have a chronic health condition, we can support you with the application process.
+all_grant_source_urls: https://wellcome.ac.uk/funding/climate-change-and-health-awards=CZD=https://wellcome.org/grant-funding/schemes/climate-change-and-health-awards
+status: Closed
+description: This funding supports researchers who want to explore the links between people's health and a changing climate. 
+
+Scheme at a glance
+Where your host organisation is based:
+UK, Republic of Ireland, Low- or middle-income countries, Rest of the world
+
+Level of funding:
+ 100,000 to  500,000 (up to  1 million in exceptional circumstances)
+
+Duration of funding:
+Up to 3 years
+eligibility: Who can apply
+Climate Change and Health Awards are open to researchers who want to better understand the links between climate change and people's health.
+
+The awards are open to individuals or teams of up to ten members from anywhere in the world. 
+
+You can apply if you're based at:
+
+an academic research organisation
+a not-for-profit or government body
+a private sector organisation.
+
+Focus areas
+To be eligible, your proposal must focus on at least one of the following areas:
+
+1. Developing tools, data sources and other resources to support research into climate change and health 
+
+To advance research into the links between climate change and health, it's important that researchers working across different disciplines and in different locations have access to high-quality tools, data sources and other resources.
+
+Examples of activities we'll consider include (but are not limited to): 
+
+-creating modelling tools to understand more about the links between climate change and health
+-building, or establishing links between, datasets for climate change and health research
+-translating, digitising and/or updating existing research and resources 
+-producing or validating metrics that offer robust ways to track and evaluate the links between climate change and health.
+
+Resources must be made openly available at the end of the funding. They should be applicable to a broad range of researchers carrying out climate and health research.
+
+2. Assessing the health co-benefits of actions to mitigate climate change 
+
+A growing number of studies have shown that actions to mitigate climate change can directly benefit people's health (ie they have 'health co-benefits').
+
+For example, policies that encourage walking and cycling rather than driving will reduce greenhouse gas emissions. At the same time, these policies benefit health by improving air quality, increasing physical activity and reducing car crashes. Such insights can help inform climate change mitigation actions.
+
+We are interested in proposals that assess how existing or hypothetical climate change mitigation actions could benefit health. These benefits could be expressed in health terms, monetary terms, or in other ways.
+
+Mitigation actions can apply to any sector, including energy production, transportation, architecture, urban design and food systems. 
+
+Proposals can focus on one or more mitigation actions, anywhere in the world.
+
+3. Assessing the health impacts of actions to adapt to climate change 
+
+Climate change poses many threats to human health, from severe weather and infectious disease risks to disrupted food systems and population displacement. To manage these threats, we'll need to adapt to climate change in many areas, including infrastructure, governance and technology.
+
+Assessing the health impacts of adaptation actions - such as early warning systems for extreme weather, or drought-tolerant crops - is still an emerging field. 
+
+We're especially interested in proposals that evaluate the health impacts of existing adaptations, rather than hypothetical ones. 
+
+Proposals can focus on one or more adaptation, anywhere in the world.
+
+Where your host organisation is based:
+UK, Republic of Ireland, Low- or middle-income countries, Rest of the world
+categories_display: {"Earth Sciences": {"Atmospheric Sciences": {"Meteorology": {"Climatology": {"Climate Dynamics and Climate Change": null}}}}, "Medical Sciences": {"Health": null}}
+limited_grant_info: nan
+user_categories: Medical Sciences;Health;Climate Dynamics and Climate Change
+submit_date: 2019-01-06 21:06:15
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://wellcome.org/grant-funding/schemes/climate-change-and-health-awards
+deadlines: 
+      
+amounts: 
+      
+all_types: Research Project
+all_applicant_types: Government; Not for Commercial; Non-profit; Academic Institution; Organization; Senior Researcher; Early Career Investigator; Not for Graduate; Not for Undergraduate; Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

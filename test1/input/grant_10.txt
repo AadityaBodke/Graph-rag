@@ -1,0 +1,70 @@
+id: 202093
+url: https://www.grantforward.com/grant?grant_id=202093
+amount_info: The one-year Fellowship provides a salary of $60,000 - $70,000, depending on the field and experience level. The fellowship offers an additional $5,000 in professional development funding for the fellowship duration. The fellowship includes medical, dental, vision and basic life insurance benefits.
+
+In rare circumstances, one-year renewals may be offered, subject to funding availability and demonstration of fellowship productivity. To underscore the unit's commitment to a tenure-track position for the fellow, the fellow s unit must contribute 50% of the salary costs during the one-year renewal; the program will cover the remaining 50%. Email cpfellows@colorado.edu for more details on renewal requirements.
+site_grant_type: nan
+modified_date: 2022-10-06 21:35:00
+application_url: https://www.colorado.edu/postdoctoralaffairs/current-postdocs/chancellors-postdoctoral-fellowship-diversity-program
+title: Chancellor's Postdoctoral Fellowship for Diversity Program
+all_titles: Chancellor's Postdoctoral Fellowship Program=CZD=Chancellor's Postdoctoral Fellowship for Diversity Program
+submission_info: The below materials must be uploaded in the online portal.
+
+[Submit Your CV and Personal Statement between 9/1/22 - 11/1/22](https://cuboulder.secure-platform.com/a/solicitations/62/home)
+1.    Curriculum Vitae (CV)
+2.    Personal Statement (4-page, 2,000-word maximum, single-spaced) including:
+    -    Research, scholarly and creative work accomplishments to date;
+    -    Research, scholarly and creative work plan for the fellowship period;
+    -    Future academic career goals;
+    -    Academic and personal experience that will offer different perspectives to the CU Boulder community and your discipline; and
+    -    Contributions to diversity, equity and inclusive practices (DEI) in educational or community settings and/or ways in which you plan to contribute to DEI in your future academic career. CU Boulder's DEI contributions are the responsibility of everyone (not just historically excluded groups) and outlined in the IDEA Plan.
+3.    Reference Letters (3 in total) - it is the applicant s responsibility to ensure letters are submitted via the online portal by the deadlines.
+    -    Thesis Advisor: describe the applicant s potential for an academic career. Thesis advisors will receive an email from the online system once the applicant submits materials and will have until November 8 to enter their recommendation.
+    -    Faculty Mentor at CU Boulder: describe the applicant s planned research; commitment to complete an Individual Development Plan in conjunction with the applicant; facilities and resources available to the applicant. Mentors will receive an email from the online system once the applicant submits materials and will have until November 8 to enter their recommendation.
+    -    Department Chair at CU Boulder: describe the department s commitment to hire the applicant into a tenure-track position and the mentor s capacity and ability to support the applicant s career trajectory. A department chair who is also serving as mentor can submit one letter, but the letter should be uploaded in both the department chair and faculty mentor fields. Chairs will receive an email from the online system once the applicant submits materials and will have until November 15 to enter their recommendation.
+all_grant_source_urls: http://www.colorado.edu/vcr/chancellors-postdoctoral-fellowship-program=CZD=https://www.colorado.edu/postdoctoralaffairs/current-postdocs/chancellors-postdoctoral-fellowship-diversity-program
+status: Closed
+description: The University of Colorado Boulder's (CU Boulder) Chancellor s Postdoctoral Fellowship for Diversity Program seeks to enhance the diversity* of CU Boulder s academic community by attracting researchers and scholars from a variety of backgrounds, races, ethnicities and historically excluded populations. Accordingly, the program is open to all persons who meet the eligibility criteria without regard to race, gender, ethnicity, sexual orientation or identity, religion, irreligion, age, marital or family status. Any questions may be directed to cpfellows@colorado.edu.
+
+Roles and Responsibilities
+-    Chancellor's Postdoctoral Fellowship for Diversity Recipients
+    -    Establish residence and participate in campus life during the appointment;
+    -    Focus full-time on research/scholarship without teaching and additional employment;
+    -    Meet regularly with mentor(s)
+    -    Attend Office of Postdoctoral Affairs and Postdoctoral Association of Colorado Boulder (PAC Boulder) events
+-    Tenured or Tenure-Track Faculty Mentors
+    -    Identify common research, scholarly or creative work interests with the applicant and agree to serve as a mentor;
+    -    Assist the fellow to establish a visible, active presence in the unit;
+    -    Be available and regularly meet with the fellow one-on-one;
+    -    Create an [Individual Development Plan](https://www.colorado.edu/postdoctoralaffairs/current-postdocs/professional-development/individual-development-plan-idp) (IDP) with the fellow to track career progress;
+    -    Encourage the fellow to attend orientations, training and professional development workshops offered by the Office of Postdoctoral Affairs, Career Services and other campus units;
+    -    Encourage the fellow to present at conferences and/or symposia;
+    -    Help the fellow network with other mentors, particularly those of various backgrounds and disciplines to help foster a well-rounded experience;
+    -    Provide support and guidance in the fellow s work while allowing a degree of autonomy;
+    -    Advise the fellow about the academic job market and help facilitate connections
+-    Department
+    -    Commit to hiring the applicant into a tenure-track position through the [Faculty Diversity Action Plan](https://www.colorado.edu/facultyaffairs/faculty-diversity-action-plan) (FDAP), which prioritizes the Chancellor s Postdoctoral Fellowship for Diversity Program, or otherwise;
+    -    Welcome the fellow into the department and ensure the fellow is included in department colloquia, seminars, social events and faculty meetings;
+    -    Onboard fellows like any new hire and make arrangements for space, technology, supplies and other necessary resources; and
+    -    Hire the fellow under the Postdoctoral Associate (1312) job code and coordinate offer letters with the HR Research Service Center (resfachr@colorado.edu).
+eligibility: All applicants must be U.S. citizens or permanent residents and have a completed doctorate or other terminal degree before July 1, 2023 at the time of application. Applicants who have completed their doctoral or other terminal degree within the last three years (2020 or after) are eligible if they are preparing for an academic career in research, scholarship or creative work. Faculty mentors should be tenured or tenure-track faculty at CU Boulder.
+categories_display: {"Education": {"Educational Systems and Institutions": {"Postsecondary Education": {"Higher Education": {"Postgraduate Education": null}}}}}
+limited_grant_info: nan
+user_categories: Postgraduate Education;Higher Education
+submit_date: 2017-09-12 22:08:55
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.colorado.edu/postdoctoralaffairs/current-postdocs/chancellors-postdoctoral-fellowship-diversity-program
+deadlines: 
+      
+amounts: 
+      
+all_types: Post-doctoral
+all_applicant_types: Not for Organization; Not for Senior Researcher; Early Career Investigator; Not for Graduate; Not for Undergraduate; Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

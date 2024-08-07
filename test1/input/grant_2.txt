@@ -1,0 +1,78 @@
+id: 83900
+url: https://www.grantforward.com/grant?grant_id=83900
+amount_info: Expected Number of Awards: 6  
+Estimated Total Program Funding: $30,000,000  
+Award Ceiling: $15,000,000  
+Award Floor: $300,000
+site_grant_type: Cooperative Agreement
+modified_date: 2023-04-13 06:01:15
+application_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=259510
+title: USAID/Nigeria Education Crisis Response
+all_titles: USAID/Nigeria Education Crisis Response
+submission_info: RELATED DOCUMENTS:   
+
+Folder: Full Announcement - 1
+[APS-620-14-000001-Full Announcement - 1.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/12265)
+Jul 23, 2014 07:14:35 AM EDT
+
+ATTACHMENT 1
+[Attachment 1.Strengthening State Systems, Increasing Access .NEI.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/220731)
+Jul 23, 2014 07:14:34 AM EDT
+
+ATTACHMENT 2
+[Attachment 2.RARA - Review of Education Sector Support Programme in Nigeria.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/220732)
+Jul 23, 2014 07:14:34 AM EDT
+
+ATTACHMENT 3
+[Attachment 3.Presidential Task Team on Education Report.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/220733)
+Jul 23, 2014 07:14:34 AM EDT
+
+ATTACHMENT 4
+[Attachment 4.Why Do Youth Join Boko Haram - USIP 2014.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/220734)
+Jul 23, 2014 07:14:34 AM EDT
+
+ATTACHMENT 5
+[Attachment 5.Youths, Radicalisation, and Affiliation with Insurgent Groups in Northern Nigeria.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/220735)
+Jul 23, 2014 07:14:34 AM EDT
+
+ATTACHMENT 6
+[Attachment 6.Maps.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/220736)
+Jul 23, 2014 07:14:35 AM EDT
+
+FULL ANNOUNCEMENT. APS-620-14-000002
+[Full Announcement.APS-620-14-000001.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/220730)
+Jul 23, 2014 07:14:34 AM EDT
+
+Folder: Full Announcement - 2
+[APS-620-14-000001-Full Announcement - 2.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/1997)
+Aug 08, 2014 10:03:59 AM EDT
+
+APS-620-14-000001: Question and Answers
+[APS-620-14-000001 Q&A.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/222327)
+Aug 08, 2014 10:03:59 AM EDT
+all_grant_source_urls: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=259510
+status: Closed
+description: Funding Opportunity Number: APS-620-14-000001  
+
+The purpose of this notice is to announce an Annual Program Statement (APS) for the USAID/Nigeria Education Crisis Response. The overarching goal of the Education Crisis Response is to: Expand enrollment in appropriate, protective and relevant educational options for the girls, boys, and youth that are affected by violence in Northeastern Nigeria.Activities will provide targeted assistance for the girls, boys, and youth that are affected by violence in Northeastern Nigeria, and ensure that children and youth have continued access to an instructional routine in Adamawa and the buffer States of Bauchi and Gombe (with other States to be determined as needs require and conditions permit). Within this goal, the Education Crisis Response will address the following problems: Expected large increase in drop-out rates in affected States Over-crowding of classrooms and learning spaces due to influx of displaced populations Limited access for displaced children Shortage of qualified teachers and instructional materials for formal and non-formal education Children traumatized by violence and abductions, and families fear of sending their children to school Marginalization of girls and children with disabilities Rising tensions between host communities and displaced populations.Programs may have a maximum duration of 36 months. Priority will be given to applications that can be launched rapidly. USAID anticipates awarding approximately two to six awards ranging anywhere from minimum grant size of $300,000 and a maximum grant size of $15,000,000 made available either to one grantee, multiple grantees, or no grantees depending on the quality of the applications and availability of funds.Subject to the availability of funds, USAID intends to provide the funding in the total range of approximately $30,000,000. USAID/Nigeria reserves the right to make multiple grants, cooperative agreements, or no awards at all through this APS. Questions concerning this notice may be directed to Abdullahi Sadiq, USAID/Nigeria Assistance Specialist, at asadiq@usaid.gov with a copy to abujaeduprocurements@usaid.gov. Prospective applicants may not contact USAID technical staff directly for information on this APS such contact may be grounds for exclusion from the competition. Until the Grants/ and/or Cooperative Agreements are awarded, all communication between applicants and USAID must be directed through the Assistance Specialist.This notice does not obligate USAID to award a grant or cooperative agreement, nor does it commit the U.S. Government to pay any cost incurred in the preparation and submission of applications.Deadline for submission of question for Round 1 was August 04, 2014. Deadline for submission of applications for Round 1 is: September 05, 2014.Prospective applicants are strongly advised to click the "FULL ANNOUNCEMENT" tab and download the APS and the APS Questions and Answers (Q&A) for full details.
+eligibility: Eligible Applicants:  
+Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled "Additional Information on Eligibility
+categories_display: {"Education": null}
+limited_grant_info: nan
+user_categories: nan
+submit_date: 2015-01-16 07:40:16
+is_limited: 0
+site_categories: Education
+cost_sharing: No
+grant_source_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=259510
+deadlines: 
+      
+amounts: 
+      
+all_types: Collaboration/Cooperative Agreement
+all_applicant_types: None
+locations: None
+sponsors: 
+      
+ext_grant_id: APS-620-14-000001
+replaces: nan

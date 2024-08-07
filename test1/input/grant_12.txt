@@ -1,0 +1,61 @@
+id: 237897
+url: https://www.grantforward.com/grant?grant_id=237897
+amount_info: Expected Number of Awards: 1  
+Award Ceiling: $8,000,000  
+Award Floor: $8,000,000
+site_grant_type: Grant
+modified_date: 2023-04-13 06:00:57
+application_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=302225
+title: Augmenting Capacity for Humanitarian Emergencies of Infectious Diseases
+all_titles: Augmenting Capacity for Humanitarian Emergencies of Infectious Diseases
+submission_info: RELATED DOCUMENTS:   
+
+Folder: Full Announcement - Full Announcement
+[720FDA18APS00001-Full Announcement - Full Announcement.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/35409)
+Mar 27, 2018 05:06:43 PM EDT
+
+Augmenting Capacity for Humanitarian Emergencies of Infectious Diseases APS
+[IDAP notice_of_funding_opportunity final.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/271341)
+Mar 27, 2018 05:06:43 PM EDT
+
+Folder: Revised Full Announcement - 720FDA18APS00001
+[720FDA18APS00001-Revised Full Announcement - 720FDA18APS00001.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/35667)
+Apr 12, 2018 03:07:32 PM EDT
+
+720FDA18APS1800001 Amendment No.2
+[Amendment Announcement 2 Revision.docx](https://www.grants.gov/grantsws/rest/opportunity/att/download/272171)
+Apr 12, 2018 03:07:32 PM EDT
+
+Folder: Other Supporting Documents - Amendment 1 - Q & A
+[720FDA18APS00001-Other Supporting Documents - Amendment 1 - Q & A.zip](https://www.grants.gov/grantsws/rest/opportunity/folder/download/35604)
+Apr 10, 2018 05:19:29 PM EDT
+
+Amendment 1-Questions & Answers
+[amendment 1 Q-A.pdf](https://www.grants.gov/grantsws/rest/opportunity/att/download/271947)
+Apr 10, 2018 05:19:29 PM EDT
+all_grant_source_urls: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=302225
+status: Closed
+description: Funding Opportunity Number: 720FDA18APS00001  
+
+The overall scope, goal of the program(s) to be funded under the award(s) resulting from this APS includes: establishing standby capacity by strengthening and augmenting preparedness and readiness of and between potential responders from national and/or international NGOs organizations, PIOs, academic and private institutions, improving technical capacity and coordination for an integrated, effective multi-sectoral response to an infectious disease outbreak that becomes humanitarian emergency. Applicants should build internal mechanisms to improve their institutional capacity to rapidly deploy in response to an infectious disease outbreak that becomes a humanitarian emergency, support organizational capacity to augment or pivot response efforts to keep up with changing needs, and/or to provide support to coordination L3 responses that includes actors from multiple agencies or sectors (i.e. Health, Nutrition, WASH, Agriculture and Food Security, Protection). USAID/OFDA recognizes other ongoing capacity building initiatives supported by other donors that are focused on governments; this APS is specifically focused on building non-governmental capacity in the humanitarian aid community.
+eligibility: Eligible Applicants:  
+Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled "Additional Information on Eligibility
+categories_display: {"Medical Sciences": {"Diseases and Disorders": {"Infectious Diseases": null}}, "Social Sciences": {"Political Science": {"Government": null}}}
+limited_grant_info: nan
+user_categories: nan
+submit_date: 2018-03-31 01:13:33
+is_limited: 0
+site_categories: Disaster Prevention and Relief
+cost_sharing: No
+grant_source_url: https://www.grants.gov/custom/viewOppDetails.jsp?oppId=302225
+deadlines: 
+      
+amounts: 
+      
+all_types: Other
+all_applicant_types: None
+locations: None
+sponsors: 
+      
+ext_grant_id: 720FDA18APS00001
+replaces: nan

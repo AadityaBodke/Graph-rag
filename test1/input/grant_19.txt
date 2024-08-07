@@ -1,0 +1,61 @@
+id: 275177
+url: https://www.grantforward.com/grant?grant_id=275177
+amount_info: nan
+site_grant_type: nan
+modified_date: 2018-09-27 03:40:17
+application_url: https://surdna.org/strategy/business-start-up-growth/
+title: Inclusive Economies - Business Start-up & Growth
+all_titles: Inclusive Economies - Business Start-up & Growth
+submission_info: Letter of Inquiry
+
+We accept letters of inquiry from nonprofit organizations that believe there is strong alignment between their work and Surdnas funding priorities.  All letters of inquiry are reviewed by Surdnas program staff, but the majority of our grantmaking is by invitation. Very few unsolicited letters of inquiry have resulted in grants. Due to the high volume of inquiries we receive, we are unable to respond to unsolicited requests for support.
+
+SUBMIT LOI
+https://surdna.fluxx.io/lois/new?utf8=%E2%9C%93&commit=Submit+a+Surdna+LOI
+all_grant_source_urls: https://surdna.org/strategy/business-start-up-growth/
+status: Closed
+description: __ The Outcomes We Seek
+
+Increased Access to Capital
+We aim to influence the flow of financial capital to better meet the business growth needs within communities of color.
+
+Reformed Procurement Practices
+We aim to accelerate the growth of existing and established businesses owned by people of color by making opportunities to attain contracts with public agencies, anchor institutions and other large entities more accessible.
+
+Improved Business Support Systems
+We aim to strengthen the effectiveness, accessibility, and capacity of support networks available for business owners and entrepreneurs of color.
+
+We believe that increasing the number and percent of stable and established firms owned by people of color will lead to the longer-term outcomes of greater income, stronger influence, and wealth creation for these communities, enabling them to more fully participate in the economy.
+
+To achieve these outcomes, we aim to increase the amount of capital that people of color-owned firms can access, as well as explore opportunities to change the racial and gender dynamic of investors. This aspect of our strategy is critical, because despite founders of color having high-potential business models, they are commonly overlooked for growth capital often due to implicit biases and a lack of cultural understanding of their products and potential markets.
+
+We will target anchor institution strategies, corporate initiatives and shifts in government policy that create more opportunities for firms owned by people of color to generate revenue and scale operations. Additionally, we continue to value targeted support systems for people of color that nurture entrepreneurs growth through mentors, capital, skill development and information.
+eligibility: We accept letters of inquiry from nonprofit organizations that believe there is strong alignment between their work and Surdnas funding priorities.
+
+__ Selection Criteria
+
+Improvements to Investing
+We will support efforts that change the lens through which investment decisions are made and will explore opportunities to change the racial and gender dynamic of investors by supporting early-stage fund managers of color and funding leadership development opportunities designed to diversify the finance sector.
+
+Inclusive Institutional Change
+We will support initiatives that aim to shift the policies that guide procurement within large institutions to be more inclusive.
+
+Professional Development Programs
+We will support projects that build professional networks and organizations that help people of color scale their businesses and more fully participate in high-growth sectors.
+categories_display: {"Social Sciences": {"Economics": null, "Political Science": null}}
+limited_grant_info: nan
+user_categories: Economics;Political Science
+submit_date: 2018-09-27 03:40:17
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://surdna.org/strategy/business-start-up-growth/
+deadlines: None
+amounts: None
+all_types: Other
+all_applicant_types: Not for Individual; Organization; Non-profit; Not for Commercial
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

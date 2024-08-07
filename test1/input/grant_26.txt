@@ -1,0 +1,39 @@
+id: 279390
+url: https://www.grantforward.com/grant?grant_id=279390
+amount_info: The Childrens Tumor Foundation is delighted to offer funding for Clinical Research Awards of up to $150,000 (including indirect costs)
+site_grant_type: nan
+modified_date: 2018-10-15 04:32:49
+application_url: http://www.ctf.org/images/uploads/documents/2018_CRA_Guidelines_one_CRA.pdf
+title: Clinical Research Award (CRA)
+all_titles: Clinical Research Award (CRA)
+submission_info: CRA APPLICATION   https://www.grantrequest.com/Login.aspx?ReturnUrl=%2fapplication.aspx%3fSA%3dSNA%26FID%3d35015%26sid%3d2149&SA=SNA&FID=35015&sid=2149
+all_grant_source_urls: https://www.ctf.org/research/awards-applications#clinical-research-award-cra
+status: Closed
+description: The Clinical Research Award program supports early stage pilot clinical trials of candidate therapeutics, or interventions for treatment of physical or psychosocial manifestations of NF1, NF2, and schwannomatosis. This grant mechanism also includes adjunct studies, such as the development of biomarkers, imaging protocols, and other clinical trial tools.
+eligibility: These Awards may be used to support:
+i) Early stage pilot clinical trials of candidate therapeutics for the treatment of tumors and other manifestations of NF1, NF2 and schwannomatosis, or
+ii) Innovative clinical studies to be conducted adjunct to clinical trials that could contribute to the advancement of effective clinical therapies for NF.
+
+It is hoped that applications for Clinical Research Awards will be broad-thinking novel ideas.
+Examples of projects encouraged include but are not limited to:
+- Biomarker studies adjunct to an ongoing clinical trial (e.g. molecular, imaging or genetic biomarkers, or other novel outcome parameters) that may better inform on and ultimately help accelerate a clinical trial.
+- Preclinical/clinical collaborative studies (clinical co-trials). Please note that all studies must include a clinical element  preclinical-only studies are not eligible.
+categories_display: {"Medical Sciences": {"Clinical Medicine": {"Therapeutics": null}}}
+limited_grant_info: nan
+user_categories: Medical Sciences;Clinical Medicine;Therapeutics
+submit_date: 2018-10-15 04:32:49
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.ctf.org/research/awards-applications#clinical-research-award-cra
+deadlines: 
+      
+amounts: 
+      
+all_types: Research Project
+all_applicant_types: Individual; Early Career Investigator
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

@@ -1,0 +1,63 @@
+id: 297840
+url: https://www.grantforward.com/grant?grant_id=297840
+amount_info: Eligible costs
+salary for doctoral candidates (30 hrs according to FWF personnel costs)
+https://www.fwf.ac.at/en/research-funding/personnel-costs/
+site_grant_type: nan
+modified_date: 2019-01-03 22:35:09
+application_url: https://www.fwf.ac.at/en/research-funding/fwf-programmes/international-programmes/grow/
+title: GROW Graduate Research Opportunities Worldwide
+all_titles: GROW Graduate Research Opportunities Worldwide
+submission_info: Application by US doctoral candidates
+application at NSF, following the GROW guidelines (cf. here) http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504876
+
+Application by hosts
+application at FWF (as hard copy and CD-Rom), including the following documents:
+- FWF application form
+- Form programme specific data for proposal in the framework of the GROW programme
+- Abstracts for FWFs public relation work in German and English (max. 450 words or 3000 characters)
+- Proposal written in English, according to FWF guidelines, including the following points:
+o Academic profile of the doctoral candidates (education, specialization, research experience, important publications, etc.)  max. 1 page
+o Planned research activity in Austria  max. 2 pages
+o Added-value for Austria as a research location  max. 1 page
+o CV (max. 3 pages) and list of publications of the doctoral candidate
+
+Downloads
+Applications
+https://www.fwf.ac.at/en/research-funding/application/international-programmes/grow/
+all_grant_source_urls: https://www.fwf.ac.at/en/research-funding/fwf-programmes/international-programmes/grow/
+status: Closed
+description: GROW is a programme for supporting the international exchange of doctoral candidates from the USA jointly offered by the US National Science Foundation (NSF) and partner organisations worldwide. It offers doctoral candidates who are funded by the NSF in the framework of its Graduate Research Fellows Program (GRFP) to make research stays at scientific institutions in partner countries. The FWF in 2014 has joined this cooperation. FWF finances the salary of US doctoral candidates for the time of their research stay in Austria. All scientists who have received FWF project funding (including SFB project part leaders and DK faculty members) in the last 5 years (since January 2014).
+
+Programme aim
+Research stays of US doctoral candidates at Austrian research institutes
+
+Duration
+10  12 months
+eligibility: Programme aim
+Research stays of US doctoral candidates at Austrian research institutes
+
+Addressees
+
+US doctoral candidates: doctoral candidates on reserve participating in the NSF the GRFP programme. Master students and doctoral candidates on tenure are not eligible for applying in the framework of the cooperation with FWF.
+
+Hosts: scientists at Austrian research institutes who have been awarded an FWF grant in the years 2014 or later (incl. SFB project part leaders and DK faculty members). For details, cf. the FWF project finder: http://pf.fwf.ac.at/en/research-in-practice/project-finder (grant year 2014 or later)
+categories_display: {"Business Administration": {"Finance": null}}
+limited_grant_info: nan
+user_categories: Finance
+submit_date: 2019-01-03 22:35:09
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.fwf.ac.at/en/research-funding/fwf-programmes/international-programmes/grow/
+deadlines: 
+      
+amounts: None
+all_types: Research Project
+all_applicant_types: Individual; Not for Undergraduate; Graduate; Not for Early Career Investigator; Not for Senior Researcher
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

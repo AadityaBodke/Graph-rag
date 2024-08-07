@@ -1,0 +1,56 @@
+id: 276345
+url: https://www.grantforward.com/grant?grant_id=276345
+amount_info: Each application may request up to $200,000 per year (including up to 10% indirect costs), for up to two years.
+Applicants should discuss with JDRF Staff (see below) when proposing projects with increased scope (time, budget), especially in the case of clinical research.
+site_grant_type: nan
+modified_date: 2018-10-03 22:07:14
+application_url: http://grantcenter.jdrf.org/wp-content/uploads/2018/08/Novel_strategies_RFA_8.23.18_FINAL.pdf
+title: Novel Adjunctive Therapeutic Strategies to Improve Metabolic Control in Type 1 Diabetes
+all_titles: Novel Adjunctive Therapeutic Strategies to Improve Metabolic Control in Type 1 Diabetes
+submission_info: LETTER OF INTENT 
+Prospective applicants should submit a LOI online via RMS360 (http://jdrf.smartsimple.us) to be considered for a full proposal request. The LOI template provided on the RMS360 website must be used to complete the application. Applicants will be notified approximately eight weeks after the LOI deadline date if they have been approved to submit a full application.
+Please see below for complete instructions. Letters of intent should use the template provided and include the following information:
+? Background/rationale, published or preliminary data, hypotheses, specific aims, deliverables of project, collaborative framework if applicable
+? Description of potential for translating project deliverables into therapies, including short and long-term development goals
+? Indication of whether research will include human subjects
+? Intellectual property or commercial efforts associated with the current application
+? Estimated budget (total and yearly)
+
+PROPOSAL 
+An approved LOI is required prior to submission of a full proposal. Upon notification of a request for a full proposal, the application must be completed using the templates provided on the RMS360
+(http://jdrf.smartsimple.us). Proposal section templates in MS Word [10 page maximum] should be type-written, single-spaced and in typeface no smaller than 10-point font and have no more than six vertical lines per vertical inch. Margins, in all directions, must be at least 12 inch. Complete information should be included to permit review of each application without reference to previous applications.
+Note that all applications involving human subject research must include supplemental information to address subject safety, study design and investigational product information. More details can be found in the Human Subject Research Guidelines:
+http://grantcenter.jdrf.org/wp-content/uploads/2012/12/JDRF_Scientific_Guidelines_final-Aug20151.pdf
+
+SUBMISSION INSTRUCTIONS Applicants should register and submit their completed LOI in RMS360 (http://jdrf.smartsimple.us).
+all_grant_source_urls: http://grantcenter.jdrf.org/rfa/novel-adjunctive-therapeutic-strategies-to-improve-metabolic-control-in-type-1-diabetes/
+status: Closed
+description: PURPOSE
+
+JDRF is committed to the development of novel therapies to improve metabolic control in people with type 1 diabetes (T1D). Toward this goal, JDRF invites applications to pursue preclinical or clinical studies to identify or validate novel targets for T1D metabolic control. Additionally, we invite applications to pursue clinical investigation of T1D pathophysiology toward the future identification and validation of novel targets.
+
+BACKGROUND
+
+T1D is characterized by the loss of insulin-producing beta cells and consequential metabolic sequela induced by high levels of blood glucose. Insulin therapy, while absolutely essential, is insufficient for most people with T1D to achieve optimal glycemic control and other metabolic outcomes. Thus, adjunct therapies that complement insulin action are critical. Although some validated type 2 diabetes (T2D) drugs (such as GLP-1 receptor agonists and SGLT inhibitors) show clinical efficacy in T1D, additional therapies designed specifically for T1D pathophysiology promise further advances in metabolic control. This RFA is intended to advance the development of adjunctive therapies rooted in T1D biology.
+eligibility: Applications may be submitted by domestic and foreign non-profit organizations, public and private, such as universities, colleges, hospitals, laboratories, units of state and local governments, and eligible agencies of the federal government. Applicants must hold an M.D., D.M.D., D.V.M., Ph.D., or equivalent and have a faculty position or equivalent at a college, university, medical school, or other research facility. Please note that applications from for-profit entities or industry collaborations with academia may be submitted to this RFA; however, additional information will be requested from for-profit entities if a full application is invited.
+
+There are no citizenship requirements for this program. To assure continued excellence and diversity among applicants and awardees, JDRF welcomes applications from all qualified individuals and encourages applications from persons with disabilities, women, and members of minority groups underrepresented in the sciences.
+categories_display: {"Medical Sciences": {"Clinical Medicine": {"Therapeutics": null}}}
+limited_grant_info: nan
+user_categories: Medical Sciences;Clinical Medicine;Therapeutics
+submit_date: 2018-10-03 22:07:14
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: http://grantcenter.jdrf.org/rfa/novel-adjunctive-therapeutic-strategies-to-improve-metabolic-control-in-type-1-diabetes/
+deadlines: 
+      
+amounts: 
+      
+all_types: Research Project
+all_applicant_types: Individual; Not for Undergraduate; Not for Graduate; Early Career Investigator; Senior Researcher; Women; Disability; Minority; Organization; Academic Institution; Non-profit; Commercial; Government
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

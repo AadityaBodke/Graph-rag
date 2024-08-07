@@ -1,0 +1,67 @@
+id: 294975
+url: https://www.grantforward.com/grant?grant_id=294975
+amount_info: UN Women internship programme does not provide a salary or remuneration for the internship;
+All the expenses connected with the internship will be borne by the intern, sponsoring Government or institution;
+site_grant_type: nan
+modified_date: 2018-12-19 04:06:05
+application_url: https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82505
+title: HeForShe Communications Intern (Multiple positions available)
+all_titles: HeForShe Communications Intern (Multiple positions available)
+submission_info: APPLY NOW https://jobs.undp.org/cj_apply.cfm?cur_job_id=82505
+
+Application Information:
+
+- UN Women will only be able to respond to those applications in which there is further interest;
+- Selected applicants must provide the internship application, two letters of recommendation, proof of health insurance and school enrollment, passport, and visa (if applicable).
+all_grant_source_urls: https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82505
+status: Closed
+description: Background
+
+UN Women, grounded in the vision of equality enshrined in the Charter of the United Nations, works for the elimination of discrimination against women and girls; the empowerment of women; and the achievement of equality between women and men as partners and beneficiaries of development, human rights, humanitarian action and peace and security.
+
+HeForShe Initiative 
+
+Created by UN Women, the HeForShe solidarity movement for gender equality provides a systematic approach and targeted platform on which men and boys can engage and become change agents towards the achievement of gender equality. HeForShe invites men and boys to build on the work of the womens movement as equal partners, crafting and implementing a shared vision of gender equality that will benefit all of humanity. For more information, visit http://www.heforshe.org/en
+
+The Communications Intern will work in the Communications Department of the United Nations HeForShe movement under the direct supervision of the HeForShe Communications Consultant. The Communications department is responsible for producing and disseminating all HeForShe communications to internal UN stakeholders and external audiences, including social media and traditional media communication.
+
+Competencies
+
+An understanding of internet communications strategies, blogging best practice, social media trends, techniques and information architecture
+
+Experience in developing and implementing online or email campaigns and/or marketing strategies
+
+An interest in and understanding of online campaign methods and the contribution campaign work can make to achieving change.
+
+Experience with Salesforce, Adobe InDesign and Photoshop will be considered assets
+eligibility: Education:
+- The intern must have studies in law, human rights, international relations, politics, gender or another similar subject at the university level. Masters or Ph.D. degree preferred;
+- Be enrolled in a graduate school programme (second university degree or equivalent, or higher); Be enrolled in the final academic year of a first university degree programme (minimum Bachelor's level or equivalent); Have graduated with a university degree and, if selected, must commence the internship within a one-year period of graduation.
+
+Language:
+Excellent communication skills (written and oral) in English are required; Working knowledge of another UN language a distinct advantage.
+
+Interns are not financially remunerated by UN Women.
+
+UNDP is committed to achieving workforce diversity in terms of gender, nationality and culture. Individuals from minority groups, indigenous groups and persons with disabilities are equally encouraged to apply. All applications will be treated with the strictest confidence.
+
+UNDP does not tolerate sexual exploitation and abuse, any kind of harassment, including sexual harassment, and discrimination. All selected candidates will, therefore, undergo rigorous reference and background checks.
+categories_display: {"Law": {"Human Rights": null}, "Social Sciences": {"Political Science": null}}
+limited_grant_info: nan
+user_categories: Law;Human Rights;Social Sciences;Political Science
+submit_date: 2018-12-19 04:06:05
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://jobs.undp.org/cj_view_job.cfm?cur_job_id=82505
+deadlines: 
+      
+amounts: None
+all_types: Internship/Work-study
+all_applicant_types: Individual; Undergraduate; Graduate; Early Career Investigator; Disability; Minority; Not for Organization
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

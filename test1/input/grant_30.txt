@@ -1,0 +1,52 @@
+id: 291004
+url: https://www.grantforward.com/grant?grant_id=291004
+amount_info: Grants do not exceed 10% of an organizations total annual operating budget.
+site_grant_type: nan
+modified_date: 2018-12-04 22:33:04
+application_url: http://www.meyerhoffcharitablefunds.org/discover/our-application-process
+title: Meyerhoff Family Charitable Funds - Baltimore
+all_titles: Meyerhoff Family Charitable Funds - Baltimore
+submission_info: The application process begins with our staff requesting a letter of inquiry from your organization. After review, our grant making committee may request a full grant application. You will be notified by email and receive a formal letter regarding the outcome of your request. If a grant application is approved, you will receive a formal Grant Award Letter and Grant Agreement.
+
+Because of the particular focus and approach of our grant making, we do not accept unsolicited letters of inquiry or grant applications. If you believe your organization falls within one of our areas of interest and would like to make us aware of your work, please contact Misty Gibson, Director of Grants and Programs, with a brief description of how your work aligns with our mission and philanthropic goals.
+all_grant_source_urls: http://www.meyerhoffcharitablefunds.org/explore/baltimore
+status: Closed
+description: We have a personal interest in ensuring that the greater Baltimore region remains a vibrant place for all families to live and thrive. Baltimores great strengths include outstanding cultural institutions and universities, along with diverse neighborhoods. To build on and complement these strengths, we work to anchor middle class communities by supporting them through grants to Jewish institutions, cultural and educational organizations, libraries, green spaces, and community groups in various neighborhoods.
+
+We are also mindful of our responsibility to help support those striving to move out of poverty by funding organizations that provide food assistance, job training and low cost recreation to our citizens.
+eligibility: Striving to fulfill the Jewish commitment to Tzedakah, we choose to fund organizations working to sustain the quality of life for middle class families in Baltimore City, and the Jewish community locally, nationally, and in Israel.
+
+The Funds transition in our Jewish/Israel giving portfolio continues in 2017 as we further the rigorous planning that started last year. Our process has renewed our sense of purpose and helped us to determine that we will focus on engaging and educating young Jewish families in Baltimore. In Israel, we will support civil and shared society throughout the country and young families in the periphery.
+
+While we continue to work on this strategic portfolio, we will be contacting those organizations whose work directly aligns with our refined areas of focus. We are not seeking new partners or accepting new applications. We are proud of the many wonderful partnerships we have had over the years. This change does not reflect on the fine work of any of our past partners, it simply mirrors the strategic interests of the Funds.
+
+Because of the particular focus and approach of our grant making, we do not accept unsolicited letters of inquiry or grant applications. If you believe your organization falls within one of our areas of interest and would like to make us aware of your work, please contact  Misty Gibson (mailto:misty@magnajm.com) , Director of Grants and Programs, with a brief description of how your work aligns with our mission and philanthropic goals.
+
+We fund general operating support, programmatic support, capital projects, capacity building, and challenge grants. Grants do not exceed 10% of an organizations total annual operating budget. To receive support, your organization must demonstrate 501(c)3 or Israel Amuta status.
+
+Please note that we do not provide grants for:
+
+- Individuals
+- deficit financing
+- galas, special events or advertising space in programs
+- health related initiatives
+- non-Jewish national initiatives 
+- political activities
+categories_display: {"Urbanism": {"Urban Studies": {"Communities": null}}, "Social Sciences": {"Social Welfare": {"Philanthropy": {"Charity": null}}}}
+limited_grant_info: nan
+user_categories: Charity;Urbanism;Urban Studies;Communities
+submit_date: 2018-12-04 22:33:04
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: http://www.meyerhoffcharitablefunds.org/explore/baltimore
+deadlines: None
+amounts: None
+all_types: Equipment/Facility/Organization
+all_applicant_types: Non-profit; Organization; Not for Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

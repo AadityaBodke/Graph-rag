@@ -1,0 +1,103 @@
+id: 268763
+url: https://www.grantforward.com/grant?grant_id=268763
+amount_info: These grants range from $5,000 to $20,000.
+site_grant_type: nan
+modified_date: 2018-09-05 06:34:02
+application_url: https://www.rmyf.org/application-questions/
+title: Ruddie Memorial Youth Foundation (RMYF) Innovation Grants
+all_titles: Ruddie Memorial Youth Foundation (RMYF) Innovation Grants
+submission_info: If your zip code falls within our geographic locations AND your organization budget is less than $1 million you can submit a Pre-Application.
+
+PRE-APPLICATION QUESTIONS FOR THE INNOVATION GRANT
+1. Please describe your organization's structure, mission, and its services to youth. Limit your response to 200 words or less.
+2. Explain what makes your program innovative - describe the innovative components/approaches/strategies of the program/service for which you seek funding, where the innovative concepts originate, and what makes them innovative. Limit your response to 200 words or less.
+3. Explain what you would do with RMYF funding and how this would meet RMYF's intent of helping disadvantaged youth reach their full potential by means of innovative services. Limit your response to 200 words or less.
+4. Have you applied before?
+5. Number of youth served by this proposed program annually?
+
+"FULL APPLICATION" INNOVATION GRANT QUESTIONS
+
+Organizational Information
+
+1. Please describe your organization's structure, mission and its services to youth, and list the principal staff and board with their titles and respective organizations. Limit your response to 500 words or less. [ability to attach multiple docs]
+
+2. Have you applied before?
+
+3. Explain what makes your program innovative - describe the innovative components/approaches/strategies of the program/service for which you seek funding, where the innovative concepts originate, and what makes them innovative. Limit your response to 200 words or less.
+
+4. Describe the youth program/service you would like RMYF's funding to support. (Please do not assume that the Ruddie Memorial Youth Foundation Board, who will review your proposal, has expertise in the area of youth programs in which you work. Clearly explain your program.) Limit your response to 1000 words or less.
+
+5. Describe the problem or need that the innovative program/service addresses, including data on the significance or prevalence of the problem or issues affecting the targeted youth while explaining the rationale for your approach; i.e. explain how your project will address the problem or need and result in your anticipated outcomes. Limit your response to 200 words or less.
+
+6. Number of youth served by this proposed program annually
+
+7. If you have a logic model or theory of change model for the program/service for which you seek funding, please include or attach. [ability to attach multiple docs]
+
+8. Specify the anticipated outcomes for the youth that participate in the program/service for which you seek funding, and what evidence you have that your program achieves these outcomes. [ability to attach multiple docs]
+
+Financials
+
+9. Please provide your programs current annual budget. Attach if a separate document. [ability to attach multiple docs]
+
+10. Is funding for this program/service provided by external funder(s)? If yes, please identify the funder(s). Please be specific.
+
+11. For what size grant are you applying ($5,000 - $20,000)?
+
+12. Explain what you would do with RMYF funding and how this would meet RMYF's intent of helping disadvantaged youth reach their full potential by means of innovative services. Limit your response to 200 words or less. [ability to attach multiple docs]
+
+13. Please provide a budget for how you plan to expend the grant, if you are awarded it. Attach if a separate document.
+all_grant_source_urls: https://www.rmyf.org/our-grants/
+status: Closed
+description: INNOVATION GRANTS
+
+RMYF Innovation Grants support young organizations develop, test and, hopefully, eventually prove the effectiveness of untested, uncommon and otherwise unconventional services to help underprivileged youth reach their full potential.
+
+These grants range from $5,000 to $20,000.
+eligibility: ELIGIBLE PROGRAMS
+
+RMYF seeks to support programs that:
+
+* Are innovative and have a potentially replicable service concept.
+* Are offered by small or medium nonprofit organizations (operating budget of up to $1 million).
+* Promote scholastic, professional, athletic and/or other excellence in disadvantaged youth (0-25 years old).
+* Provide youth with new opportunities for health, personal growth and success.
+* Are located in the greater metropolitan areas of Boston, Los Angeles, Milwaukee, San Francisco and Washington, DC. Search below to see if your zip code falls within our range.
+
+ELIGIBLE ORGANIZATIONS
+
+Innovation Grants aim to help undiscovered organizations at a point in their evolution where $20,000 still makes a meaningful contribution towards becoming sustainable long-term. If your organization has more than $1million in annual revenue or receive any grants over $100,000 from government entities or large philanthropic organizations, it has likely outgrown RMYF grants.
+
+Only organizations that meet all of the following criteria are eligible for Innovation Grants:
+
+- Are US-based organizations with IRS nonprofit status.
+- Operate in one of these geographic areas: Boston MA, Los Angeles, CA, Milwaukee WI, San Francisco CA, and Washington DC.
+- Offer innovative programs or services designed help underprivileged youth reach their full potential. Innovative is defined as "uncommon, untested or otherwise unconventional" In other words, RMYF funds programs or services that are outside of current customary practices. Innovative services RMYF has funded include the following:
+- Credit union savings projects
+- An intensive weekend tutoring program for at-risk students
+- Book club for incarcerated youth that uses reading and writing to help them to envision a future that does not end with a cycle of incarceration or early death
+- Neighborhood tour guide program
+- Yoga program that works with the entire school community to create a less stressful and more mindful school learning environment
+- A program that provides talented, experienced teachers with support, incentives and a professional environment to help make teaching in low-performing schools a viable long-term employment option
+- Civic engagement after-school program in Spanish that includes an English language learning component.
+
+Furthermore, RMYF gives preference to smaller nonprofit organizations, such as organizations with up to $1,000,000 in annual revenue.
+categories_display: {"Urbanism": {"Urban Studies": {"Communities": null}}}
+limited_grant_info: nan
+user_categories: Communities
+submit_date: 2018-08-23 04:42:58
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.rmyf.org/our-grants/
+deadlines: 
+      
+amounts: 
+      
+all_types: Other
+all_applicant_types: Non-profit; Organization; Not for Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

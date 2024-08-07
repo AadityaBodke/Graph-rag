@@ -1,0 +1,90 @@
+id: 286296
+url: https://www.grantforward.com/grant?grant_id=286296
+amount_info: Grants are combined program and general support and will range from $50,000 - $150,000
+site_grant_type: nan
+modified_date: 2018-11-14 03:01:52
+application_url: https://borealisphilanthropy.org/download/5498/
+title: Racial Equity to Accelerate Change Fund
+all_titles: Racial Equity to Accelerate Change Fund
+submission_info: HOW TO APPLY
+
+1. Create an account or log on: We use an online proposal system that can be accessed here. The hyperlink is: https://www.grantinterface.com/Home/Logon?urlkey=borealisphilanthropy
+ New Users: please click on "Create New Account" to complete the registration process and create your login credentials. Be sure to keep this login information for your organization's records. TIP: This email address is the one we will use to communicate with you if we have questions, which sometimes require immediate response. We suggest using an email address that is available to anyone at your organization who needs to access the application.
+ Existing Users: Please enter your credentials and log in. If you forgot your password, please use the Forgot your Password link to the left to reset your password.
+ Not Sure? If you think that you or someone at your organization has already registered in the system, DO NOT create a new account. Please contact Tashie Sloley, Senior Grants Manger, at tsloley@borealisphilanthropy.org to receive your username and password.
+
+2. Begin your Letter of Interest:
+Upon logging in select apply from the upper menu, then select Racial Equity Accelerating Change FundYear 1 and click apply.
+
+3. Complete and submit your Letter of Interest: Unfinished applications can be accessed using the same link: https://www.grantinterface.com/Home/Logon?urlkey=borealisphilanthropy
+
+Application Checklist
+No attachments required for the LOI stage.
+all_grant_source_urls: https://borealisphilanthropy.org/grantmaking/racial-equity-to-accelerate-change-fund/
+status: Closed
+description: OUR MISSION
+Borealis Philanthropy works as a partner to philanthropy, helping grantmakers expand their reach and impact.
+
+OUR VISION
+As a philanthropic intermediary, Borealis helps connect grantmakers to organizations that meet their mission. We provide a high level of service to our funders and grantees by conducting our work in a manner that is collaborative, transparent, and accountable. We respond promptly to the needs and interests of our partners by staying abreast of changing policy and social landscapes. We educate grantmakers and non-profits organizations on the important role intermediaries play in the philanthropic sector, and endeavor to share our knowledge with the broader field. In carrying out this vision, we ultimately hope to change the way philanthropy works.
+
+OUR VALUES
+Borealis Philanthropy is guided by the following set of principles:
+
+Responsiveness: We proactively monitor the rapidly changing nature of the work we fund and allocate resources accordingly.
+Transparency: We make information about our services and our knowledge publicly available and accessible to philanthropy.
+Complexity: We recognize the complexity of issues and support organizations working at the intersections of a wide variety of societal challenges.
+Philanthropic advocacy: We seek to educate non-profits and grantmakers on the critical role that intermediaries play within philanthropy.
+Expertise: We bring a deep level of knowledge and experience in grantmaking and the respective fields in which we fund.
+Diversity: Our staff and board demonstrate the lived experiences we fund.
+
+Background
+
+The REACH Fund seeks to build the capacity of the nonprofit sector to address issues of racial and intersectional equity and inclusion and to address the gap between interest and capacity in the sector to pursue racial equity. The Fund will invest in supporting and lifting up the work of those who are innovating and developing promising practices.
+
+By matching nonprofits with racial equity practitioners offering technical support on how to apply a racial equity lens towards dismantling institutional racism, build race conscious organizations and leadership, and design internal and external strategy, policy, and cultural change, the REACH Fund aims to:
+
+help meet the increased demand and need from the nonprofit sector for technical support;
+increase funding to support the being and doing of racial equity in the nonprofit and philanthropic sectors; and
+create efficiency and opportunity for sharing the accelerators and barriers for sector level progress towards racial equity.
+We believe that when nonprofits know where to go and how to move forward their own practice of racial equity, they will be better able to end inequities in their work.
+
+The REACH Fund is a donor collaborative and learning community based at Borealis Philanthropy and currently includes support from the Barr Foundation, the Bush Foundation, the David and Lucile Packard Foundation, the Evelyn and Walter Haas, Jr. Fund, the Ford Foundation, the Grove Foundation, the Heising-Simons Foundation, the James Irvine Foundation, the Meyer Memorial Trust, the NoVo Foundation, the Robert Sterling Clark Foundation, and the S.D. Bechtel, Jr. Foundation.
+
+The REACH Fund is one component of our racial equity work at Borealis Philanthropy. While the REACH Fund focuses on the nonprofit sector, the Racial Equity in Philanthropy (REP) Fund focuses on changing grantmaker behavior. The REP Funds vision is to promote grantmaking strategies that prioritize structural change and ending racial disparities as the norm in philanthropy. Visit the REP Fund page to learn more.
+
+https://borealisphilanthropy.org/grantmaking/racial-equity-in-philanthropy-fund/
+
+Grantmaking Model
+
+The goal of the REACH Fund is to resource racial equity practitioners, the individuals and institutions working closely with nonprofit groups on the ground to advance their racial equity work internally and externally, and who are independent consultants  individual consultants, a team of individual consultants, capacity building organizations, or firms.
+
+The REACH Funds three-part grantmaking strategy is:
+
+Grants (combined program/general support) to racial equity practitioners.
+Communities of practice  the collaborative would create opportunities for grantees and capacity builders to share lessons learned, strengthen their respective practice, and identify the ways in which the larger sector can benefit from this shared knowledge.
+Communications  the collaborative would share lessons and knowledge for others undergoing racial equity work and share stories and case studies to make the case for philanthropy to provide greater support for this work.
+eligibility: Funding Priorities
+
+The REACH Fund prioritizes investment in practitioners who have a body of work around racial equity by resourcing their time and expertise to develop and scale tools and strategies for the benefit of the nonprofit sector.
+
+The Fund will directly resource practitioners to provide racial equity consultative services to nonprofit organizations. It will also support cross-sharing, learning and innovation among practitioners to lift up promising practices, case studies, strategies, frameworks and tools that facilitate nonprofits capacity to have greater impact on addressing racial inequities, internally in their organizations and externally in program and service delivery.
+categories_display: {"Urbanism": {"Urban Studies": {"Communities": null}}, "Business Administration": {"Business or Industry": {"Nonprofit Sector": null}}}
+limited_grant_info: nan
+user_categories: Business Administration;Business or Industry;Nonprofit Sector;Urbanism;Urban Studies;Communities
+submit_date: 2018-11-14 03:01:52
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://borealisphilanthropy.org/grantmaking/racial-equity-to-accelerate-change-fund/
+deadlines: 
+      
+amounts: 
+      
+all_types: Collaboration/Cooperative Agreement
+all_applicant_types: Not for Commercial; Non-profit; Organization; Not for Individual
+locations: None
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

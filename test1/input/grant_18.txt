@@ -1,0 +1,55 @@
+id: 270472
+url: https://www.grantforward.com/grant?grant_id=270472
+amount_info: nan
+site_grant_type: nan
+modified_date: 2018-08-31 03:50:25
+application_url: http://www.gimbelfoundation.org/HowtoApply.htm
+title: Bernard F. and Alva B. Gimbel Foundation Grant
+all_titles: Bernard F. and Alva B. Gimbel Foundation Grant
+submission_info: The Foundation makes grant decisions in December and June. Requests for both general support and program support are considered. Grants are made only to tax-exempt 501(c)(3) organizations.
+- Letters of Inquiry
+- Proposals
+- Deadlines
+ 
+At the request of the Foundation, prospective applicants may complete an online letter of inquiry. The electronic form will require the following information:
+- A description of the organizations mission and core activities
+- A description of the program(s) and/or activities for which support is requested, including objectives and population served
+- Organization budget and program budget (if applicable)
+- Most recent audited financial statement
+- A list of organizational or programmatic funding sources
+- A copy of the organization's IRS 501(c)(3) tax exempt form
+ 
+At the request of the Foundation, full proposals may be submitted online after review of a letter of inquiry. New and renewal grantees will be emailed an access code and detailed instructions for online submission. Full grant proposals should include the following:
+- A narrative of seven to ten pages describing your organization, its history and mission, and the program(s) and/or activities for which funding is requested
+- Organization budget and program budget (if applicable)
+- Most recent audited financial statement
+- IRS certification of 501(c)(3) status
+- Complete list of income sources, including grant amounts and restrictions
+- Board of Directors list
+- Organization staff chart
+all_grant_source_urls: http://www.gimbelfoundation.org/FundingRestrictionsandPriorities.htm
+status: Closed
+description: The Bernard F. and Alva B. Gimbel Foundation, Inc. was incorporated in 1943 as a private, family foundation. The Foundations donors had wide ranging philanthropic interests and the Foundations original giving guidelines were defined broadly: grants were to be used for charitable, scientific or educational purposes. The Foundations areas of interest have evolved over the years and are now more narrowly defined. Current areas of funding include the environment, criminal justice, economic development, reproductive rights, and civil legal services.
+
+In most program areas, the Foundation seeks to fund both direct services programs and advocacy efforts. The Foundations support for direct services programs is limited to those operating in New York City.
+eligibility: Grants are made only to tax-exempt 501(c)(3) organizations.
+
+The Foundation is currently reviewing its funding priorities and, as a result, is not accepting unsolicited letters of inquiry at this time. Feel free to contact our office if you have any questions.
+categories_display: {"Environmental Sciences": {"Environmental Management": null}, "Law": {"Constitutional Law": {"Civil and Political Rights": null}}, "Social Sciences": {"Economics": {"Economic Development": null}, "Criminology": {"Criminal Justice": null}}}
+limited_grant_info: nan
+user_categories: Civil and Political Rights;Criminal Justice;Economic Development;Environmental Management
+submit_date: 2018-08-31 03:50:25
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: http://www.gimbelfoundation.org/FundingRestrictionsandPriorities.htm
+deadlines: None
+amounts: None
+all_types: Other
+all_applicant_types: Not for Individual; Not for Commercial; Non-profit; Organization
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

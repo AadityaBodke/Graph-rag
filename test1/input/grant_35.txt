@@ -1,0 +1,79 @@
+id: 295430
+url: https://www.grantforward.com/grant?grant_id=295430
+amount_info: Grant Levels
+The maximum grant amount available depends on your school's size and Title 1 status. Schools can use funds for activities and equipment that support each school's AHG Action Plan. 
+
+Small - Less than 500 students enrolled
+Title 1: $4,000
+Not Title 1: $2,000
+Medium - Between 500 and 700 students enrolled
+Title 1: $6,000
+Not Title 1: $4,000
+Large - More than 700 students enrolled
+Title 1: $8,000
+Not Title 1: $6,000
+site_grant_type: nan
+modified_date: 2018-12-21 02:03:15
+application_url: https://www.bcbsscfoundation.org/wise-school-grants/apply
+title: School Wellness Grants
+all_titles: School Wellness Grants
+submission_info: Application Requirements
+- Each school can have only one grant open at a time and only one application per school will be considered. The BlueCross BlueShield of South Carolina Foundation defines a school as having one principal.
++ If multiple grade ranges (i.e., K-5, 8-12) share a facility or property, but each grade range has their own principal, each can apply for WISE funding.
+- Teachers or school staff must submit the application, including:
++ A description of the implementation strategy or strategies to address the items within your school wellness plan and why it was selected
++ A list of the proposed use of funds that is in line with the school's AHG Action Plan
++ Required documents, including a project budget and a letter of support signed by the principal
+
+Preview the application questions: https://www.bcbsscfoundation.org/sites/default/files/documents/Revised%20WISE%20Application%20TEMPLATE%209_14_2018_jm.pdf
+
+Start the online application:https://www.grantrequest.com/SID_1593?SA=SNA&FID=35085
+
+Review and Approval
+We will inform the contact for the application of the award status once a decision is reached. Grant Agreements must be signed by the school district superintendent or authorized representative.
+
+Please note that if a grant is awarded, purchases must follow appropriate and relevant school district procurement policies and procedures, to include obtaining at least three quotes when indicated. Copies of quotes must be available for at least three years after close of grant and made available to The Foundation upon request.
+all_grant_source_urls: https://www.bcbsscfoundation.org/wise-school-grants
+status: Closed
+description: To support health at our South Carolina schools, the BlueCross BlueShield of South Carolina Foundation launched the Wellness Inspired School Environments (WISE) grant opportunity for K-12 public and private, nonprofit schools.
+
+Assessment
+We expect all applicants to have completed or updated their schools Alliance for a Healthy Generation Assessment and corresponding Action Plan as part of the Healthy Schools Program within the last 12 months.
+
+For more information about AHG and the Action Plan, you can refer to the frequently asked questions about the WISE Grant or contact Beth Barry, Senior Program Manager SC at beth.barry@healthiergeneration.org.
+eligibility: To be eligible for funding, schools must have completed the Alliance for a Healthier Generation online assessment within the past 12 months and have completed or updated a corresponding AHG Wellness Action Plan within the past 12 months.
+
+Funding priority will be given to schools:
+
+- with Federal Title I status, which is designated to schools with higher percentages of children from low-income families
+- that are participating in the SC FitnessGram System and have a current, signed MOA with the S.C. Department of Health and Environmental Control; exemptions are given to private, nonprofit schools
+
+Schools cannot apply to use funds for:
+- one-time events
+- incentives, such as t-shirts
+- direct health care services, such as a clinic
+- salaries
+- religious activities
+- sports tournaments
+- raffles
+- auctions
+- activities that influence legislation
+categories_display: {"Medical Sciences": {"Health": null}}
+limited_grant_info: nan
+user_categories: Medical Sciences;Health
+submit_date: 2018-12-21 02:03:15
+is_limited: 0
+site_categories: nan
+cost_sharing: nan
+grant_source_url: https://www.bcbsscfoundation.org/wise-school-grants
+deadlines: 
+      
+amounts: None
+all_types: Equipment/Facility/Organization
+all_applicant_types: Non-profit; Academic Institution; Organization; Not for Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan

@@ -1,0 +1,97 @@
+id: 294251
+url: https://www.grantforward.com/grant?grant_id=294251
+amount_info: Public support for the arts in New Jersey comes from a dedicated, renewable revenue source - the Hotel/Motel Occupancy Fee - established in 2003. Under this law, 22.68% of the fees collected are annually allocated to the State Arts Council with a minimum appropriation of $16 million. Additionally, the Council receives an annual, competitive grant from the National Endowment for the Arts.
+site_grant_type: nan
+modified_date: 2022-11-08 05:35:12
+application_url: https://www.nj.gov/state/njsca/assets/pdf/fy20-22-gos-guidelines.pdf
+title: New Jersey State Council on the Arts - General Operating Support (GOS)
+all_titles: New Jersey State Council on the Arts - General Operating Support (GOS)
+submission_info: HOW TO APPLY FOR A FY20 GOS GRANT 
+A Notice of Intent to Apply (NOI) is the first required step in the application process (exception: FY19 GOS grantees need not submit a NOI unless noted as a requirement in the organization's FY19 contract specifications). The Council will not accept an application that was not preceded by a NOI if one is required.
+To file a NOI, an applicant must be registered in the SAGE system. The purpose of the NOI is to provide Council staff with the opportunity to assess potential applicants by previewing proposals and ensuring eligibility requirements are met. The NOI form is not binding.
+Each organization that submits a NOI is required to meet with Program Staff via telephone to discuss their organization, program or project prior to submitting an application. The purpose of the meeting is to confirm eligibility and screen for potential issues before an application is submitted. Program Staff will reach out to schedule the meeting in December/early January.
+SAGE System: The System for Administering Grants Electronically (SAGE) is the State of New Jersey's grant management system. This system requires authorization for access. If you do not have a username and password please click the New User link to request access to the site. Please contact Patricia Hamilton-Ross at patricia.hamilton-ross@sos.nj.gov or 609/633-1273 for technical assistance in SAGE.
+
+GOS APPLICATION COMPONENTS 
+Organizational Profile Form: This form provides the essential information about the organization.
+Application Form: This form provides the essential information about the request for funding.
+Purpose of Funding: This statement is limited to approximately 50 words or 300 characters. It is used in press releases and for other public inquiries. It should contain the basic "who, what, where, and when"
+information.
+Sample Statement: "This grant will help support the Sample Theatre Company's main stage season of four productions serving an estimated audience of 13,000 northern NJ residents; a six-play summer reading series for an invited audience of 3,000; a Youth Conservatory serving 75 young people and a Saturday Children's Series."
+Narrative: This statement is limited to 8 pages or approximately 32,800 characters. It should clearly and concisely communicate your organization's story to the panel and provide context for the other materials in the application. The narrative should directly address the Evaluation Criteria through the "Narrative Topics."
+Board Chart: This chart identifies who serves on the organization's current board. If you are a returning grantee, please check for accuracy if the chart is already completed in SAGE.
+Staff Chart: This chart identifies the organization's current staff, which must include, at a minimum, one part-time employee.
+Finance Charts: Provide Organizational Income and Expense Charts detailing three years of financial information. Use the notes feature to describe or explain your finance charts. The panel expects accompanying budget notes to provide clear information about the organization's complete financial picture.
+In-Kind Contributions Chart (Optional): This chart documents any in-kind goods or services received/to be received by the organization. Remember, in-kind goods and services may not be counted toward the match.
+Detailing in-kind contributions is helpful for panelists to understand those costs not detailed in the Project Expense Charts. Contributions must be documented based on fair market value.
+Audits/Financial Statements: Organizations must upload FY17 and FY18 audits or reviews of financial statements. The reports provided should be at minimum an independent corroboration and review of finances and internal controls conducted by a CPA (or by a Public Accountant certified before 12/31/70).
+Colleges, Universities and units of government are exempt from this audit requirement. In all cases in which a management letter is referenced in the audits, a copy should be submitted. An applicant's response to any audit findings may also be included and submitted with the report.
+If the audit/financial review for an organization's 2018 fiscal year is not completed by the application due date, but will be available by March 31, 2019, the applicant should substitute a memo noting this fact and then must submit the FY2018 report to the Council by March 31st. Failure to provide the audit may result in disqualification from the panel review process.
+Charities Registration and Division of Revenue: Organizations must be in accordance with both Charities Registration Bureau requirements and Division of Revenue requirements, including any other state and federal requirements. Failure to provide proof may result in disqualification from the panel review process.
+Required and Optional Support Materials: Support material requirements vary according to discipline.
+Detailed information is found in the Support Material section.
+all_grant_source_urls: https://www.nj.gov/state/njsca/dos_njsca_grants.html
+status: Closed
+description: GOS grants are awarded to New Jersey based, nonprofit, arts-missioned organizations to help underwrite the expense of their total operation including the expense of producing and presenting arts events. GOS grants are typically awarded with a three-year commitment, subject to contract stipulations and available funds.
+
+Applicants should consult the Frequently Asked Questions https://www.nj.gov/state/njsca/assets/pdf/coa-fy20-grants-faq.pdf document for additional guidance and support.
+
+ABOUT THE NEW JERSEY STATE COUNCIL ON THE ARTS 
+The New Jersey State Council on the Arts is a division of the New Jersey Department of State, created in 1966 by Public Law Chapter 214 and consists of 17 Governor-appointed members, and three ex-officio members representing the New Jersey Secretary of State, the Senate, and the Assembly. The Council's volunteer members are supported by a professional staff who carry out the Council's programs and services from the State Capital in Trenton.
+
+WHAT WE BELIEVE 
+We believe the arts are central to every element we value most in a modern society including: human understanding; cultural and civic pride; strong communities; excellent schools; lifelong learning; creative expression; and economic opportunity.
+
+OUR MISSION: GIVEN TO US BY THE PEOPLE OF NEW JERSEY 
+In 1966, the Legislature passed, and the governor signed, a bill creating the New Jersey State Council on the Arts, and directing us to do all that is necessary and appropriate to: support, encourage, and foster public interest in the arts; enlarge public and private resources devoted to the arts; promote freedom of expression in the arts; and facilitate the inclusion of art in every public building in New Jersey.
+
+WHAT IS A GENERAL OPERATING SUPPORT GRANT 
+General Operating Support (GOS) grants provide support for the overall operations of organizations with missions exclusively devoted to the arts, and which meet the Council's eligibility criteria. Review and consideration of GOS requests occur every three years. GOS grants are typically awarded with a three-year commitment, subject to contract stipulations and available funds. This grant is to be matched 3:1 ($3 earned or raised and spent per $1 received from the Council).
+eligibility: GOS ELIGIBILITY REQUIREMENTS 
+To be eligible to receive a GOS grant, an applicant must be:
+1. incorporated in the State of New Jersey as a non-profit corporation or be a unit of government, college or university;
+2. tax-exempt by determination of the Internal Revenue Service in accordance with Sections 501(c)3 or (c)4; and, 3. registered annually with the NJ Charities Registration Bureau and Division of Revenue
+4. in compliance with all pertinent state and federal regulations including but not limited to: Fair Labor Standards, the Civil Rights Act of 1964; Section 504 of the Rehabilitation Act of 1973, as amended; Title IX of the Education Amendments of 1972; the Age Discrimination Act of 1975; the Americans with Disabilities Act of 1990; the Drug-Free Workplace Act of 1988; and Section 1913 of 18 U.S.C. and Section 319 of P.L. 101-121. Apart from all other provisions of law, particularly the requirements of the Americans with Disabilities Act, which bear upon all Council grantees, those grantees whose Council grant is composed all or in part of funds derived from the National Endowment for the Arts will be required to be in compliance with Section 504 of the Rehabilitation Act of 1973 at the time of and as a condition of receipt of the grant under penalty of rescission and any others set forth under law.
+In addition, the applicant must demonstrate that it has a(n):
+1. artistic mission and focus for the organization seeking support;
+2. board of directors responsible for the governance and administration of the organization, its programs, and finances;
+3. been in existence and providing public programs or services for at least two years prior to the application;
+4. expense budget of at least $100,000 (new requirement);
+5. one half-time administrative staff person on payroll, at minimum (new requirement);
+6. current regional or statewide public impact through the organization's programs or projects. Regional impact is defined as serving audiences across a three or more county region of New Jersey. If less than
+30% of the audience currently served is from outside the county, the organization is classified as having
+"local impact."
+Those organizations that have "local impact" or cannot meet all the Council's eligibility requirements are encouraged to apply for Council support through their respective County Arts Agency, which receives a Local Arts Program grant for this purpose. If you would like more information regarding this opportunity, please contact Mary Eileen Fouratt at MaryEileen.Fouratt@sos.nj.gov or 609/984-6815.
+In addition, organizations are encouraged to critically examine its capacity in order to successfully manage a GOS grant. Is the organization prepared and able to:
+1. develop and manage a board-approved, three-year strategic long-range plan;
+2. develop and manage a three-year ADA plan for compliance with the Americans with Disabilities Act.
+First-time applicants must complete the Cultural Access Network's "Self-Assessment Survey and Planning Tool" to establish a baseline by December 31, 2019. For more information regarding this requirement, please contact Mary Eileen Fouratt at MaryEileen.Fouratt@sos.nj.gov or 609/984-6815;
+3. submit an audit/financial review annually within three months of your organization's fiscal year end;
+4. provide documentation of compliance with the NJ Charities Registration Bureau;
+5. provide documentation of compliance with Division of Revenue; and, 6. work in SAGE to submit a Contract, Interim Report and Final Report by the respective deadlines each year of the three-year grants cycle?
+
+INELIGIBLE USES OF COUNCIL GRANT FUNDS
+1. Capital improvements and acquisitions
+2. Hospitality costs
+3. Deficits or replacements of funds normally budgeted for the activity
+4. Fundraising events
+5. Student publications or scholarship funds
+categories_display: {"Arts": null}
+limited_grant_info: nan
+user_categories: Arts
+submit_date: 2018-12-16 21:42:54
+is_limited: 0
+site_categories: nan
+cost_sharing: This grant is to be matched 3:1 ($3 earned or raised and spent per $1 received from the Council).
+grant_source_url: https://www.nj.gov/state/njsca/dos_njsca_grants.html
+deadlines: 
+      
+amounts: None
+all_types: Other
+all_applicant_types: Government; Not for Commercial; Non-profit; Academic Institution; Organization; Not for Individual
+locations: 
+      
+sponsors: 
+      
+ext_grant_id: None
+replaces: nan
